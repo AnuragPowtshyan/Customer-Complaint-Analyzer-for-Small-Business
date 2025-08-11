@@ -1,0 +1,1001 @@
+Complaint ID,Customer ID,Product,Complaint Category,Date Filed,Date Resolved,Status,Resolution Time (Days),Sentiment,Region
+820407,28631,Insurance Plan,Delivery,24-05-2024,11-06-2024 00:00,Resolved,18,Neutral,Andhra Pradesh
+262537,23083,Digital Scale,Product Quality,30-06-2024,28-07-2024 00:00,Resolved,28,Neutral,Chhattisgarh
+459273,52729,Digital Scale,Service,10-05-2024,20-05-2024 00:00,Resolved,10,Neutral,Rajasthan
+271580,63115,Personal Safe,Delivery,26-10-2023,Unresolved,Unresolved,0,Neutral,Arunachal Pradesh
+282178,17532,Fitness Tracker,Product Quality,18-07-2024,16-08-2024 00:00,Resolved,29,Neutral,Meghalaya
+608969,98598,Customer Support Service,Delivery,12-11-2023,20-11-2023 00:00,Resolved,8,Neutral,Assam
+425538,86606,Cloud Storage,Product Quality,07-02-2024,27-02-2024 00:00,Resolved,20,Neutral,Goa
+630128,19045,Fitness Tracker,Service,12-08-2024,Unresolved,Unresolved,0,Neutral,Bihar
+588941,18285,Digital Scale,Service,24-08-2024,28-08-2024 00:00,Resolved,4,Neutral,Sikkim
+921215,73034,Insurance Plan,Billing,05-12-2023,03-01-2024 00:00,Resolved,29,Neutral,Chhattisgarh
+655434,96496,Home Security System,Product Quality,19-02-2024,10-03-2024 00:00,Resolved,20,Neutral,Andhra Pradesh
+776011,54527,Home Security System,Delivery,31-10-2023,09-11-2023 00:00,Resolved,9,Neutral,Odisha
+226694,34562,Home Security System,Technical Support,01-12-2023,11-12-2023 00:00,Resolved,10,Positive,Arunachal Pradesh
+704514,40651,Home Security System,Service,20-02-2024,Unresolved,Unresolved,0,Neutral,Telangana
+381559,54129,Personal Safe,Technical Support,11-03-2024,23-03-2024 00:00,Resolved,12,Positive,Assam
+866567,66699,Digital Scale,Technical Support,26-12-2023,30-12-2023 00:00,Resolved,4,Positive,Haryana
+902524,55819,Digital Scale,Service,02-07-2024,11-07-2024 00:00,Resolved,9,Neutral,Bihar
+593413,85069,Home Security System,Billing,31-12-2023,Unresolved,Unresolved,0,Neutral,Jharkhand
+100216,73029,Weight Loss Program,Billing,16-05-2024,23-05-2024 00:00,Resolved,7,Neutral,Chhattisgarh
+807469,43859,Weight Loss Program,Delivery,15-11-2023,05-12-2023 00:00,Resolved,20,Neutral,Kerala
+640416,10972,Cloud Storage,Technical Support,30-03-2024,14-04-2024 00:00,Resolved,15,Positive,Goa
+300152,52757,Digital Scale,Service,16-09-2023,03-10-2023 00:00,Resolved,17,Neutral,Nagaland
+307163,14924,Cloud Storage,Technical Support,01-09-2023,27-09-2023 00:00,Resolved,26,Positive,Manipur
+763821,15817,Digital Scale,Product Quality,27-05-2024,Unresolved,Unresolved,0,Neutral,Punjab
+569103,74656,Weight Loss Program,Delivery,28-03-2024,12-04-2024 00:00,Resolved,15,Neutral,Rajasthan
+177124,38208,Home Security System,Delivery,02-09-2023,29-09-2023 00:00,Resolved,27,Neutral,Delhi
+178158,16647,Insurance Plan,Product Quality,24-03-2024,Unresolved,Unresolved,0,Neutral,Sikkim
+807802,33971,Home Security System,Delivery,07-01-2024,Unresolved,Unresolved,0,Neutral,Puducherry
+838416,18804,Home Security System,Service,25-12-2023,09-01-2024 00:00,Resolved,15,Neutral,Tamil Nadu
+945182,77685,Fitness Tracker,Product Quality,15-11-2023,24-11-2023 00:00,Resolved,9,Neutral,West Bengal
+788707,21357,Drone Delivery Service,Technical Support,13-11-2023,12-12-2023 00:00,Resolved,29,Positive,Telangana
+355701,47102,Home Security System,Product Quality,25-04-2024,25-05-2024 00:00,Resolved,30,Neutral,Lakshadweep
+977109,99546,Mobile Banking App,Technical Support,24-02-2024,10-03-2024 00:00,Resolved,15,Positive,Tripura
+417231,27411,Drone Delivery Service,Technical Support,13-06-2024,19-06-2024 00:00,Resolved,6,Positive,Delhi
+941434,21281,Drone Delivery Service,Delivery,31-03-2024,28-04-2024 00:00,Resolved,28,Neutral,Uttar Pradesh
+939442,57326,Cloud Storage,Delivery,08-10-2023,27-10-2023 00:00,Resolved,19,Neutral,Jammu and Kashmir
+204240,46312,Weight Loss Program,Technical Support,04-08-2024,Unresolved,Unresolved,0,Positive,Uttarakhand
+547957,56151,Home Security System,Product Quality,25-10-2023,03-11-2023 00:00,Resolved,9,Neutral,Dadra and Nagar Haveli and Daman and Diu
+929717,50894,Drone Delivery Service,Service,19-06-2024,05-07-2024 00:00,Resolved,16,Neutral,West Bengal
+829761,68556,Weight Loss Program,Billing,23-09-2023,Unresolved,Unresolved,0,Neutral,Puducherry
+205113,41203,Insurance Plan,Billing,21-04-2024,08-05-2024 00:00,Resolved,17,Neutral,Andaman and Nicobar Islands
+803752,77452,Drone Delivery Service,Delivery,22-10-2023,10-11-2023 00:00,Resolved,19,Neutral,Ladakh
+306606,31514,Drone Delivery Service,Technical Support,26-10-2023,16-11-2023 00:00,Resolved,21,Positive,Chandigarh
+656316,44208,Fitness Tracker,Delivery,28-12-2023,10-01-2024 00:00,Resolved,13,Neutral,Tamil Nadu
+924492,99060,Cloud Storage,Billing,26-01-2024,29-01-2024 00:00,Resolved,3,Neutral,Dadra and Nagar Haveli and Daman and Diu
+458567,61418,Home Security System,Technical Support,28-03-2024,16-04-2024 00:00,Resolved,19,Positive,Tripura
+101800,98150,Cloud Storage,Technical Support,14-02-2024,15-02-2024 00:00,Resolved,1,Positive,Lakshadweep
+221503,57392,Weight Loss Program,Billing,14-10-2023,22-10-2023 00:00,Resolved,8,Neutral,Himachal Pradesh
+105883,20380,Mobile Banking App,Billing,22-07-2024,08-08-2024 00:00,Resolved,17,Neutral,Karnataka
+567350,37042,Weight Loss Program,Technical Support,08-08-2024,29-08-2024 00:00,Resolved,21,Positive,Odisha
+150874,22434,Digital Scale,Billing,24-10-2023,18-11-2023 00:00,Resolved,25,Neutral,Kerala
+316308,55683,Cloud Storage,Technical Support,27-05-2024,13-06-2024 00:00,Resolved,17,Positive,Nagaland
+875124,30516,Mobile Banking App,Delivery,20-07-2024,28-07-2024 00:00,Resolved,8,Neutral,Madhya Pradesh
+220891,56192,Digital Scale,Service,19-08-2024,09-09-2024 00:00,Resolved,21,Neutral,Jharkhand
+581088,88636,Insurance Plan,Delivery,30-12-2023,29-01-2024 00:00,Resolved,30,Neutral,Maharashtra
+801190,37869,Personal Safe,Service,31-08-2023,01-09-2023 00:00,Resolved,1,Neutral,Kerala
+141883,86987,Cloud Storage,Delivery,07-01-2024,08-01-2024 00:00,Resolved,1,Neutral,Manipur
+683420,15977,Cloud Storage,Billing,12-08-2024,29-08-2024 00:00,Resolved,17,Neutral,Tamil Nadu
+535323,91655,Personal Safe,Product Quality,01-06-2024,19-06-2024 00:00,Resolved,18,Neutral,West Bengal
+313860,41852,Digital Scale,Product Quality,10-07-2024,19-07-2024 00:00,Resolved,9,Neutral,Telangana
+437988,73520,Personal Safe,Product Quality,22-04-2024,07-05-2024 00:00,Resolved,15,Neutral,Lakshadweep
+836401,40636,Drone Delivery Service,Product Quality,23-02-2024,17-03-2024 00:00,Resolved,23,Neutral,Tripura
+520057,17883,Cloud Storage,Delivery,27-06-2024,19-07-2024 00:00,Resolved,22,Neutral,Delhi
+368858,41248,Fitness Tracker,Billing,09-10-2023,17-10-2023 00:00,Resolved,8,Neutral,Uttar Pradesh
+297788,81342,Insurance Plan,Product Quality,13-11-2023,18-11-2023 00:00,Resolved,5,Neutral,Jammu and Kashmir
+984296,12737,Home Security System,Product Quality,21-04-2024,08-05-2024 00:00,Resolved,17,Neutral,Uttarakhand
+842019,75568,Mobile Banking App,Delivery,16-12-2023,03-01-2024 00:00,Resolved,18,Neutral,Dadra and Nagar Haveli and Daman and Diu
+666979,38726,Mobile Banking App,Delivery,07-10-2023,01-11-2023 00:00,Resolved,25,Neutral,West Bengal
+999443,99609,Insurance Plan,Service,30-12-2023,31-12-2023 00:00,Resolved,1,Neutral,Puducherry
+360650,53544,Personal Safe,Delivery,06-01-2024,10-01-2024 00:00,Resolved,4,Neutral,Andaman and Nicobar Islands
+484582,27014,Customer Support Service,Delivery,18-06-2024,29-06-2024 00:00,Resolved,11,Neutral,Ladakh
+105044,28833,Digital Scale,Technical Support,28-10-2023,08-11-2023 00:00,Resolved,11,Positive,Chandigarh
+458054,76407,Home Security System,Technical Support,07-05-2024,30-05-2024 00:00,Resolved,23,Positive,Tamil Nadu
+408128,98642,Drone Delivery Service,Service,06-08-2024,14-08-2024 00:00,Resolved,8,Neutral,Dadra and Nagar Haveli and Daman and Diu
+375995,21966,Fitness Tracker,Delivery,28-05-2024,23-06-2024 00:00,Resolved,26,Neutral,Tripura
+747731,36941,Customer Support Service,Delivery,05-12-2023,10-12-2023 00:00,Resolved,5,Neutral,Chandigarh
+249706,90417,Cloud Storage,Billing,24-08-2024,09-09-2024 00:00,Resolved,16,Neutral,Puducherry
+398675,73541,Fitness Tracker,Service,09-05-2024,04-06-2024 00:00,Resolved,26,Neutral,Chhattisgarh
+530875,25814,Home Security System,Technical Support,20-06-2024,21-06-2024 00:00,Resolved,1,Positive,Jammu and Kashmir
+455681,96786,Digital Scale,Service,11-02-2024,06-03-2024 00:00,Resolved,24,Neutral,Tripura
+550561,27234,Personal Safe,Billing,23-08-2024,Unresolved,Unresolved,0,Neutral,Ladakh
+269023,92515,Home Security System,Technical Support,15-10-2023,08-11-2023 00:00,Resolved,24,Positive,Meghalaya
+518119,89660,Mobile Banking App,Billing,03-03-2024,05-03-2024 00:00,Resolved,2,Neutral,Nagaland
+234659,80216,Digital Scale,Technical Support,07-11-2023,29-11-2023 00:00,Resolved,22,Positive,Ladakh
+978007,97487,Home Security System,Technical Support,14-07-2024,Unresolved,Unresolved,0,Positive,Goa
+899697,17392,Digital Scale,Service,18-01-2024,Unresolved,Unresolved,0,Neutral,Karnataka
+314641,70172,Insurance Plan,Billing,24-02-2024,15-03-2024 00:00,Resolved,20,Neutral,Jammu and Kashmir
+252701,19135,Cloud Storage,Technical Support,07-12-2023,24-12-2023 00:00,Resolved,17,Positive,Bihar
+474337,81779,Insurance Plan,Technical Support,07-09-2023,06-10-2023 00:00,Resolved,29,Positive,Kerala
+404704,75844,Customer Support Service,Service,24-10-2023,23-11-2023 00:00,Resolved,30,Neutral,Delhi
+570815,44223,Weight Loss Program,Delivery,26-04-2024,23-05-2024 00:00,Resolved,27,Neutral,Maharashtra
+276787,32227,Insurance Plan,Service,15-08-2024,16-08-2024 00:00,Resolved,1,Neutral,Uttar Pradesh
+565196,88207,Weight Loss Program,Technical Support,28-11-2023,28-12-2023 00:00,Resolved,30,Positive,Tamil Nadu
+761368,69805,Drone Delivery Service,Billing,17-11-2023,12-12-2023 00:00,Resolved,25,Neutral,Ladakh
+870141,77655,Fitness Tracker,Billing,28-08-2024,04-09-2024 00:00,Resolved,7,Neutral,Uttar Pradesh
+258872,65616,Fitness Tracker,Product Quality,09-08-2024,03-09-2024 00:00,Resolved,25,Neutral,Jammu and Kashmir
+771579,15935,Cloud Storage,Delivery,01-11-2023,26-11-2023 00:00,Resolved,25,Neutral,Uttarakhand
+302840,99705,Personal Safe,Service,07-01-2024,14-01-2024 00:00,Resolved,7,Neutral,Karnataka
+849467,76598,Cloud Storage,Delivery,31-12-2023,12-01-2024 00:00,Resolved,12,Neutral,Rajasthan
+674619,15567,Digital Scale,Technical Support,13-11-2023,19-11-2023 00:00,Resolved,6,Positive,Meghalaya
+748078,29317,Digital Scale,Billing,02-09-2023,13-09-2023 00:00,Resolved,11,Neutral,Assam
+870223,74667,Customer Support Service,Technical Support,07-09-2023,11-09-2023 00:00,Resolved,4,Positive,Mizoram
+476142,13290,Mobile Banking App,Billing,10-03-2024,01-04-2024 00:00,Resolved,22,Neutral,Bihar
+546868,61216,Mobile Banking App,Technical Support,04-03-2024,23-03-2024 00:00,Resolved,19,Positive,Tamil Nadu
+660550,14220,Customer Support Service,Service,29-10-2023,Unresolved,Unresolved,0,Neutral,Gujarat
+269234,91801,Home Security System,Product Quality,21-08-2024,05-09-2024 00:00,Resolved,15,Neutral,Assam
+574858,20950,Weight Loss Program,Service,21-11-2023,04-12-2023 00:00,Resolved,13,Neutral,Haryana
+191464,38410,Fitness Tracker,Delivery,03-03-2024,06-03-2024 00:00,Resolved,3,Neutral,Jammu and Kashmir
+462822,58596,Mobile Banking App,Service,13-05-2024,14-05-2024 00:00,Resolved,1,Neutral,Jharkhand
+740893,27250,Digital Scale,Technical Support,14-02-2024,29-02-2024 00:00,Resolved,15,Positive,Uttar Pradesh
+518830,60578,Fitness Tracker,Delivery,05-09-2023,11-09-2023 00:00,Resolved,6,Neutral,Madhya Pradesh
+901174,27287,Home Security System,Service,19-04-2024,04-05-2024 00:00,Resolved,15,Neutral,Haryana
+759654,67086,Insurance Plan,Service,21-03-2024,23-03-2024 00:00,Resolved,2,Neutral,Punjab
+120296,90568,Home Security System,Product Quality,19-06-2024,16-07-2024 00:00,Resolved,27,Neutral,Madhya Pradesh
+881606,46007,Weight Loss Program,Technical Support,28-11-2023,Unresolved,Unresolved,0,Positive,West Bengal
+820454,94983,Customer Support Service,Service,27-06-2024,27-07-2024 00:00,Resolved,30,Neutral,Karnataka
+835159,79896,Digital Scale,Service,20-04-2024,17-05-2024 00:00,Resolved,27,Neutral,Arunachal Pradesh
+224321,38274,Insurance Plan,Service,19-07-2024,25-07-2024 00:00,Resolved,6,Neutral,Haryana
+215950,86095,Cloud Storage,Service,23-06-2024,07-07-2024 00:00,Resolved,14,Neutral,Himachal Pradesh
+880534,88095,Insurance Plan,Service,07-09-2023,30-09-2023 00:00,Resolved,23,Neutral,Assam
+684830,90233,Customer Support Service,Product Quality,08-09-2023,19-09-2023 00:00,Resolved,11,Neutral,Mizoram
+907428,57740,Mobile Banking App,Product Quality,16-03-2024,Unresolved,Unresolved,0,Neutral,Madhya Pradesh
+866887,82811,Customer Support Service,Billing,08-04-2024,21-04-2024 00:00,Resolved,13,Neutral,Nagaland
+727332,76515,Fitness Tracker,Product Quality,11-02-2024,23-02-2024 00:00,Resolved,12,Neutral,Meghalaya
+454540,27410,Insurance Plan,Billing,26-12-2023,19-01-2024 00:00,Resolved,24,Neutral,Odisha
+945445,56172,Digital Scale,Technical Support,05-12-2023,14-12-2023 00:00,Resolved,9,Positive,Maharashtra
+320333,47648,Weight Loss Program,Billing,26-02-2024,27-03-2024 00:00,Resolved,30,Neutral,Telangana
+173166,19376,Home Security System,Delivery,29-04-2024,01-05-2024 00:00,Resolved,2,Neutral,Tamil Nadu
+721026,67140,Fitness Tracker,Product Quality,18-02-2024,29-02-2024 00:00,Resolved,11,Neutral,Chhattisgarh
+770666,71141,Personal Safe,Technical Support,01-12-2023,Unresolved,Unresolved,0,Positive,Kerala
+446213,62640,Insurance Plan,Technical Support,20-08-2024,25-08-2024 00:00,Resolved,5,Positive,Sikkim
+967264,77191,Personal Safe,Billing,19-12-2023,Unresolved,Unresolved,0,Neutral,West Bengal
+425118,31087,Digital Scale,Technical Support,20-10-2023,24-10-2023 00:00,Resolved,4,Positive,Tripura
+458575,31585,Weight Loss Program,Technical Support,18-03-2024,30-03-2024 00:00,Resolved,12,Positive,Karnataka
+551667,87045,Customer Support Service,Technical Support,28-09-2023,05-10-2023 00:00,Resolved,7,Positive,Delhi
+114383,80719,Digital Scale,Delivery,08-04-2024,21-04-2024 00:00,Resolved,13,Neutral,Kerala
+588979,79292,Digital Scale,Technical Support,02-08-2024,15-08-2024 00:00,Resolved,13,Positive,Lakshadweep
+860953,55598,Customer Support Service,Delivery,14-09-2023,24-09-2023 00:00,Resolved,10,Neutral,Tamil Nadu
+219716,38266,Mobile Banking App,Service,22-09-2023,09-10-2023 00:00,Resolved,17,Neutral,Puducherry
+449468,71202,Customer Support Service,Delivery,17-10-2023,29-10-2023 00:00,Resolved,12,Neutral,Maharashtra
+168336,83332,Insurance Plan,Billing,07-03-2024,21-03-2024 00:00,Resolved,14,Neutral,Chandigarh
+218300,63657,Home Security System,Billing,12-12-2023,26-12-2023 00:00,Resolved,14,Neutral,Rajasthan
+528218,94001,Weight Loss Program,Technical Support,23-05-2024,20-06-2024 00:00,Resolved,28,Positive,Daman and Diu
+331080,58785,Cloud Storage,Service,20-06-2024,17-07-2024 00:00,Resolved,27,Neutral,Bihar
+644340,75016,Personal Safe,Technical Support,26-05-2024,Unresolved,Unresolved,0,Positive,Dadra and Nagar Haveli
+536509,81051,Personal Safe,Billing,12-06-2024,Unresolved,Unresolved,0,Neutral,Delhi
+941984,62041,Insurance Plan,Technical Support,20-10-2023,24-10-2023 00:00,Resolved,4,Positive,Ladakh
+330045,73569,Drone Delivery Service,Technical Support,24-06-2024,Unresolved,Unresolved,0,Positive,Uttar Pradesh
+714952,60210,Personal Safe,Billing,10-11-2023,13-11-2023 00:00,Resolved,3,Neutral,Jammu and Kashmir
+935185,46214,Cloud Storage,Service,18-09-2023,Unresolved,Unresolved,0,Neutral,Daman and Diu
+654160,58021,Mobile Banking App,Service,21-04-2024,Unresolved,Unresolved,0,Neutral,Kerala
+553922,32251,Digital Scale,Product Quality,11-07-2024,Unresolved,Unresolved,0,Neutral,Madhya Pradesh
+380292,86383,Insurance Plan,Product Quality,22-11-2023,22-12-2023 00:00,Resolved,30,Neutral,Tamil Nadu
+430173,90628,Fitness Tracker,Product Quality,05-12-2023,Unresolved,Unresolved,0,Neutral,Sikkim
+705211,53708,Fitness Tracker,Billing,23-06-2024,21-07-2024 00:00,Resolved,28,Neutral,Uttar Pradesh
+876783,31412,Insurance Plan,Delivery,14-04-2024,19-04-2024 00:00,Resolved,5,Neutral,Goa
+665489,70018,Insurance Plan,Technical Support,08-03-2024,Unresolved,Unresolved,0,Positive,Maharashtra
+239319,57442,Home Security System,Technical Support,12-10-2023,06-11-2023 00:00,Resolved,25,Positive,Kerala
+633605,24356,Insurance Plan,Delivery,10-11-2023,16-11-2023 00:00,Resolved,6,Neutral,Gujarat
+999237,20752,Digital Scale,Technical Support,30-11-2023,19-12-2023 00:00,Resolved,19,Positive,Goa
+689537,71038,Fitness Tracker,Technical Support,22-06-2024,Unresolved,Unresolved,0,Positive,Rajasthan
+475532,83829,Cloud Storage,Technical Support,12-04-2024,04-05-2024 00:00,Resolved,22,Positive,Punjab
+552393,32432,Fitness Tracker,Service,25-05-2024,Unresolved,Unresolved,0,Neutral,Assam
+352770,24756,Drone Delivery Service,Billing,26-08-2024,22-09-2024 00:00,Resolved,27,Neutral,Haryana
+952120,62035,Personal Safe,Billing,24-05-2024,30-05-2024 00:00,Resolved,6,Neutral,Odisha
+422626,43954,Drone Delivery Service,Billing,03-08-2024,02-09-2024 00:00,Resolved,30,Neutral,Bihar
+473043,86305,Personal Safe,Service,21-01-2024,28-01-2024 00:00,Resolved,7,Neutral,Chhattisgarh
+225104,34579,Cloud Storage,Technical Support,29-05-2024,30-05-2024 00:00,Resolved,1,Positive,Jharkhand
+277299,58197,Fitness Tracker,Product Quality,12-07-2024,Unresolved,Unresolved,0,Neutral,Telangana
+755950,64383,Fitness Tracker,Product Quality,19-09-2023,28-09-2023 00:00,Resolved,9,Neutral,Maharashtra
+517509,28311,Fitness Tracker,Service,14-04-2024,22-04-2024 00:00,Resolved,8,Neutral,West Bengal
+427217,84728,Weight Loss Program,Product Quality,23-06-2024,12-07-2024 00:00,Resolved,19,Neutral,Rajasthan
+884788,80325,Drone Delivery Service,Billing,06-05-2024,18-05-2024 00:00,Resolved,12,Neutral,Haryana
+986890,34753,Home Security System,Billing,03-02-2024,13-02-2024 00:00,Resolved,10,Neutral,Gujarat
+125665,20271,Digital Scale,Service,20-05-2024,19-06-2024 00:00,Resolved,30,Neutral,Madhya Pradesh
+250166,66288,Mobile Banking App,Delivery,06-02-2024,Unresolved,Unresolved,0,Neutral,Mizoram
+616977,30737,Customer Support Service,Service,15-05-2024,05-06-2024 00:00,Resolved,21,Neutral,Himachal Pradesh
+714723,44222,Insurance Plan,Delivery,05-03-2024,02-04-2024 00:00,Resolved,28,Neutral,Assam
+601226,43695,Customer Support Service,Service,20-11-2023,Unresolved,Unresolved,0,Neutral,Meghalaya
+906429,42784,Mobile Banking App,Service,21-08-2024,Unresolved,Unresolved,0,Neutral,Arunachal Pradesh
+771947,64120,Fitness Tracker,Service,17-04-2024,Unresolved,Unresolved,0,Neutral,Manipur
+925953,94854,Mobile Banking App,Service,09-06-2024,23-06-2024 00:00,Resolved,14,Neutral,Andhra Pradesh
+402395,14122,Customer Support Service,Technical Support,03-11-2023,28-11-2023 00:00,Resolved,25,Positive,Goa
+141211,11364,Customer Support Service,Service,29-07-2024,27-08-2024 00:00,Resolved,29,Neutral,Karnataka
+801716,84451,Insurance Plan,Product Quality,25-02-2024,20-03-2024 00:00,Resolved,24,Neutral,Jharkhand
+873653,24518,Personal Safe,Delivery,28-03-2024,07-04-2024 00:00,Resolved,10,Neutral,Daman and Diu
+909760,21396,Cloud Storage,Billing,18-08-2024,19-08-2024 00:00,Resolved,1,Neutral,Nagaland
+134121,96559,Home Security System,Delivery,08-06-2024,30-06-2024 00:00,Resolved,22,Neutral,Manipur
+867185,44083,Drone Delivery Service,Product Quality,14-12-2023,08-01-2024 00:00,Resolved,25,Neutral,Punjab
+106948,37145,Personal Safe,Product Quality,12-04-2024,23-04-2024 00:00,Resolved,11,Neutral,Rajasthan
+103547,65438,Drone Delivery Service,Technical Support,25-08-2024,01-09-2024 00:00,Resolved,7,Positive,Delhi
+746100,11271,Home Security System,Billing,11-11-2023,21-11-2023 00:00,Resolved,10,Neutral,Sikkim
+440221,45881,Drone Delivery Service,Product Quality,18-06-2024,14-07-2024 00:00,Resolved,26,Neutral,Puducherry
+353218,28674,Fitness Tracker,Delivery,03-03-2024,10-03-2024 00:00,Resolved,7,Neutral,Tamil Nadu
+462539,78721,Weight Loss Program,Product Quality,27-09-2023,15-10-2023 00:00,Resolved,18,Neutral,West Bengal
+947762,42734,Weight Loss Program,Service,05-05-2024,28-05-2024 00:00,Resolved,23,Neutral,Telangana
+184533,76280,Mobile Banking App,Delivery,15-11-2023,15-12-2023 00:00,Resolved,30,Neutral,Lakshadweep
+790793,94533,Fitness Tracker,Service,26-01-2024,Unresolved,Unresolved,0,Neutral,Tripura
+534276,79131,Home Security System,Service,30-08-2023,10-09-2023 00:00,Resolved,11,Neutral,Delhi
+151886,58714,Fitness Tracker,Product Quality,16-05-2024,Unresolved,Unresolved,0,Neutral,Uttar Pradesh
+695468,37031,Home Security System,Delivery,16-09-2023,04-10-2023 00:00,Resolved,18,Neutral,Jammu and Kashmir
+160674,35151,Digital Scale,Service,26-08-2024,14-09-2024 00:00,Resolved,19,Neutral,Uttarakhand
+353033,76838,Digital Scale,Product Quality,08-11-2023,26-11-2023 00:00,Resolved,18,Neutral,Dadra and Nagar Haveli and Daman and Diu
+928591,59747,Insurance Plan,Product Quality,21-07-2024,19-08-2024 00:00,Resolved,29,Neutral,West Bengal
+426143,94332,Cloud Storage,Billing,23-07-2024,16-08-2024 00:00,Resolved,24,Neutral,Puducherry
+632542,35521,Customer Support Service,Delivery,30-04-2024,07-05-2024 00:00,Resolved,7,Neutral,Andaman and Nicobar Islands
+115182,36738,Digital Scale,Product Quality,20-05-2024,Unresolved,Unresolved,0,Neutral,Ladakh
+420768,24964,Weight Loss Program,Billing,24-05-2024,28-05-2024 00:00,Resolved,4,Neutral,Chandigarh
+663456,69588,Digital Scale,Product Quality,21-08-2024,31-08-2024 00:00,Resolved,10,Neutral,Tamil Nadu
+438282,82407,Cloud Storage,Delivery,29-10-2023,06-11-2023 00:00,Resolved,8,Neutral,Dadra and Nagar Haveli and Daman and Diu
+226323,74115,Fitness Tracker,Product Quality,10-09-2023,14-09-2023 00:00,Resolved,4,Neutral,Tripura
+367443,95395,Insurance Plan,Delivery,11-04-2024,15-04-2024 00:00,Resolved,4,Neutral,Lakshadweep
+746198,25033,Customer Support Service,Technical Support,16-06-2024,02-07-2024 00:00,Resolved,16,Positive,Himachal Pradesh
+854711,64417,Fitness Tracker,Billing,10-06-2024,15-06-2024 00:00,Resolved,5,Neutral,Karnataka
+439060,79278,Personal Safe,Delivery,25-05-2024,30-05-2024 00:00,Resolved,5,Neutral,Odisha
+733662,43980,Weight Loss Program,Service,25-08-2024,26-08-2024 00:00,Resolved,1,Neutral,Kerala
+608065,34098,Fitness Tracker,Technical Support,28-07-2024,11-08-2024 00:00,Resolved,14,Positive,Nagaland
+880266,46837,Fitness Tracker,Product Quality,10-11-2023,14-11-2023 00:00,Resolved,4,Neutral,Madhya Pradesh
+908123,24553,Drone Delivery Service,Billing,26-12-2023,20-01-2024 00:00,Resolved,25,Neutral,Jharkhand
+883721,22727,Drone Delivery Service,Technical Support,12-03-2024,08-04-2024 00:00,Resolved,27,Positive,Maharashtra
+271006,44671,Weight Loss Program,Technical Support,04-07-2024,17-07-2024 00:00,Resolved,13,Positive,Kerala
+660439,65565,Personal Safe,Technical Support,27-04-2024,Unresolved,Unresolved,0,Positive,Manipur
+463800,40263,Fitness Tracker,Billing,03-04-2024,28-04-2024 00:00,Resolved,25,Neutral,Ladakh
+784440,29476,Fitness Tracker,Service,11-07-2024,Unresolved,Unresolved,0,Neutral,Meghalaya
+510139,94811,Customer Support Service,Technical Support,14-05-2024,Unresolved,Unresolved,0,Positive,Delhi
+383694,48287,Mobile Banking App,Billing,12-02-2024,07-03-2024 00:00,Resolved,24,Neutral,Mizoram
+827207,87779,Home Security System,Delivery,09-07-2024,12-07-2024 00:00,Resolved,3,Neutral,Daman and Diu
+794155,23771,Digital Scale,Delivery,12-03-2024,22-03-2024 00:00,Resolved,10,Neutral,Nagaland
+797958,12791,Insurance Plan,Product Quality,12-01-2024,22-01-2024 00:00,Resolved,10,Neutral,Goa
+755067,15476,Customer Support Service,Service,03-02-2024,24-02-2024 00:00,Resolved,21,Neutral,Odisha
+556795,69784,Home Security System,Billing,11-08-2024,21-08-2024 00:00,Resolved,10,Neutral,Maharashtra
+809642,36663,Insurance Plan,Billing,30-05-2024,14-06-2024 00:00,Resolved,15,Neutral,Punjab
+379985,82967,Personal Safe,Service,26-02-2024,Unresolved,Unresolved,0,Neutral,Madhya Pradesh
+572311,28049,Insurance Plan,Delivery,26-09-2023,22-10-2023 00:00,Resolved,26,Neutral,Rajasthan
+154744,78900,Cloud Storage,Billing,04-03-2024,Unresolved,Unresolved,0,Neutral,Delhi
+394967,39054,Fitness Tracker,Billing,13-10-2023,15-10-2023 00:00,Resolved,2,Neutral,Sikkim
+429152,43962,Cloud Storage,Billing,10-03-2024,26-03-2024 00:00,Resolved,16,Neutral,Puducherry
+637181,76589,Weight Loss Program,Technical Support,10-12-2023,31-12-2023 00:00,Resolved,21,Positive,Tamil Nadu
+397050,53160,Insurance Plan,Billing,28-01-2024,17-02-2024 00:00,Resolved,20,Neutral,West Bengal
+564321,79747,Digital Scale,Billing,25-11-2023,24-12-2023 00:00,Resolved,29,Neutral,Telangana
+755368,96940,Fitness Tracker,Billing,26-04-2024,01-05-2024 00:00,Resolved,5,Neutral,Lakshadweep
+556052,99837,Personal Safe,Service,28-12-2023,Unresolved,Unresolved,0,Neutral,Tripura
+380341,37136,Personal Safe,Delivery,13-10-2023,24-10-2023 00:00,Resolved,11,Neutral,Delhi
+491527,92858,Drone Delivery Service,Product Quality,12-03-2024,09-04-2024 00:00,Resolved,28,Neutral,Uttar Pradesh
+470680,91571,Home Security System,Delivery,01-10-2023,09-10-2023 00:00,Resolved,8,Neutral,Jammu and Kashmir
+901091,33770,Fitness Tracker,Technical Support,03-06-2024,17-06-2024 00:00,Resolved,14,Positive,Uttarakhand
+285211,74672,Digital Scale,Service,15-10-2023,19-10-2023 00:00,Resolved,4,Neutral,Dadra and Nagar Haveli and Daman and Diu
+570324,22263,Mobile Banking App,Technical Support,20-03-2024,09-04-2024 00:00,Resolved,20,Positive,West Bengal
+854472,97923,Mobile Banking App,Billing,12-01-2024,Unresolved,Unresolved,0,Neutral,Puducherry
+652824,19845,Digital Scale,Product Quality,10-05-2024,13-05-2024 00:00,Resolved,3,Neutral,Andaman and Nicobar Islands
+947505,44859,Weight Loss Program,Product Quality,12-12-2023,26-12-2023 00:00,Resolved,14,Neutral,Ladakh
+593654,82914,Customer Support Service,Delivery,18-11-2023,Unresolved,Unresolved,0,Neutral,Chandigarh
+648248,31091,Digital Scale,Service,04-03-2024,10-03-2024 00:00,Resolved,6,Neutral,Tamil Nadu
+542956,30096,Home Security System,Service,09-06-2024,26-06-2024 00:00,Resolved,17,Neutral,Dadra and Nagar Haveli and Daman and Diu
+372128,19379,Home Security System,Service,31-12-2023,Unresolved,Unresolved,0,Neutral,Tripura
+424984,80225,Mobile Banking App,Delivery,12-02-2024,09-03-2024 00:00,Resolved,26,Neutral,Lakshadweep
+117952,79145,Home Security System,Billing,27-09-2023,14-10-2023 00:00,Resolved,17,Neutral,Bihar
+787925,29198,Personal Safe,Delivery,21-10-2023,07-11-2023 00:00,Resolved,17,Neutral,Delhi
+217326,49654,Home Security System,Delivery,11-04-2024,Unresolved,Unresolved,0,Neutral,Assam
+193043,55551,Personal Safe,Technical Support,13-08-2024,04-09-2024 00:00,Resolved,22,Positive,Puducherry
+339958,42082,Mobile Banking App,Delivery,19-11-2023,18-12-2023 00:00,Resolved,29,Neutral,Daman and Diu
+764141,67773,Insurance Plan,Delivery,18-11-2023,05-12-2023 00:00,Resolved,17,Neutral,Jammu and Kashmir
+455748,62911,Weight Loss Program,Service,22-10-2023,12-11-2023 00:00,Resolved,21,Neutral,Bihar
+820870,69079,Digital Scale,Product Quality,30-12-2023,Unresolved,Unresolved,0,Neutral,Ladakh
+509751,16742,Mobile Banking App,Product Quality,10-12-2023,04-01-2024 00:00,Resolved,25,Neutral,Chhattisgarh
+921032,76830,Personal Safe,Product Quality,07-03-2024,Unresolved,Unresolved,0,Neutral,Arunachal Pradesh
+742788,11007,Fitness Tracker,Billing,28-12-2023,06-01-2024 00:00,Resolved,9,Neutral,Chandigarh
+528390,41382,Weight Loss Program,Technical Support,02-05-2024,Unresolved,Unresolved,0,Positive,Assam
+682631,50185,Home Security System,Product Quality,19-06-2024,Unresolved,Unresolved,0,Neutral,Mizoram
+829417,30837,Cloud Storage,Technical Support,01-01-2024,17-01-2024 00:00,Resolved,16,Positive,Bihar
+506743,71910,Mobile Banking App,Delivery,22-11-2023,Unresolved,Unresolved,0,Neutral,Dadra and Nagar Haveli and Daman and Diu
+922907,26890,Fitness Tracker,Technical Support,30-12-2023,Unresolved,Unresolved,0,Positive,Chhattisgarh
+304984,81181,Drone Delivery Service,Product Quality,21-04-2024,Unresolved,Unresolved,0,Neutral,Punjab
+242112,23102,Customer Support Service,Billing,10-11-2023,20-11-2023 00:00,Resolved,10,Neutral,Goa
+965198,12300,Mobile Banking App,Delivery,01-03-2024,05-03-2024 00:00,Resolved,4,Neutral,Chhattisgarh
+670918,49204,Digital Scale,Delivery,23-03-2024,17-04-2024 00:00,Resolved,25,Neutral,Gujarat
+744782,26134,Customer Support Service,Technical Support,23-05-2024,11-06-2024 00:00,Resolved,19,Positive,Ladakh
+539663,76779,Weight Loss Program,Service,23-12-2023,03-01-2024 00:00,Resolved,11,Neutral,Haryana
+888552,69473,Cloud Storage,Service,20-08-2024,16-09-2024 00:00,Resolved,27,Neutral,Andhra Pradesh
+835731,98200,Insurance Plan,Billing,08-05-2024,10-05-2024 00:00,Resolved,2,Neutral,Chhattisgarh
+684549,11597,Personal Safe,Technical Support,13-09-2023,20-09-2023 00:00,Resolved,7,Positive,Rajasthan
+307840,84822,Cloud Storage,Delivery,24-01-2024,17-02-2024 00:00,Resolved,24,Neutral,Arunachal Pradesh
+223187,50485,Drone Delivery Service,Technical Support,20-08-2024,21-08-2024 00:00,Resolved,1,Positive,Meghalaya
+723885,66141,Fitness Tracker,Product Quality,28-05-2024,09-06-2024 00:00,Resolved,12,Neutral,Assam
+884909,75378,Digital Scale,Product Quality,13-10-2023,02-11-2023 00:00,Resolved,20,Neutral,Goa
+121784,99643,Fitness Tracker,Delivery,13-04-2024,07-05-2024 00:00,Resolved,24,Neutral,Bihar
+619378,83378,Cloud Storage,Technical Support,11-06-2024,06-07-2024 00:00,Resolved,25,Positive,Sikkim
+267422,75424,Fitness Tracker,Billing,13-06-2024,02-07-2024 00:00,Resolved,19,Neutral,Chhattisgarh
+472989,62467,Drone Delivery Service,Technical Support,02-05-2024,05-05-2024 00:00,Resolved,3,Positive,Andhra Pradesh
+460061,45638,Drone Delivery Service,Delivery,14-07-2024,25-07-2024 00:00,Resolved,11,Neutral,Odisha
+417941,90303,Home Security System,Service,22-07-2024,18-08-2024 00:00,Resolved,27,Neutral,Arunachal Pradesh
+390388,80741,Mobile Banking App,Delivery,14-12-2023,Unresolved,Unresolved,0,Neutral,Telangana
+984667,14576,Insurance Plan,Product Quality,13-06-2024,10-07-2024 00:00,Resolved,27,Neutral,Assam
+745258,45043,Insurance Plan,Delivery,22-04-2024,Unresolved,Unresolved,0,Neutral,Haryana
+715432,69856,Insurance Plan,Service,12-02-2024,17-02-2024 00:00,Resolved,5,Neutral,Bihar
+850144,38914,Home Security System,Product Quality,17-06-2024,12-07-2024 00:00,Resolved,25,Neutral,Jharkhand
+310595,28396,Customer Support Service,Billing,24-11-2023,30-11-2023 00:00,Resolved,6,Neutral,Chhattisgarh
+805482,86651,Personal Safe,Billing,10-03-2024,Unresolved,Unresolved,0,Neutral,Kerala
+668827,56357,Insurance Plan,Technical Support,16-07-2024,02-08-2024 00:00,Resolved,17,Positive,Goa
+940653,53021,Mobile Banking App,Billing,09-12-2023,Unresolved,Unresolved,0,Neutral,Odisha
+528097,30579,Drone Delivery Service,Technical Support,16-01-2024,06-02-2024 00:00,Resolved,21,Positive,Andaman and Nicobar Islands
+406997,79902,Cloud Storage,Product Quality,07-04-2024,17-04-2024 00:00,Resolved,10,Neutral,Punjab
+541491,64855,Cloud Storage,Billing,09-05-2024,16-05-2024 00:00,Resolved,7,Neutral,Meghalaya
+946112,29181,Fitness Tracker,Service,14-10-2023,13-11-2023 00:00,Resolved,30,Neutral,Rajasthan
+885321,75162,Fitness Tracker,Technical Support,07-05-2024,08-05-2024 00:00,Resolved,1,Positive,Maharashtra
+370275,82294,Personal Safe,Billing,17-09-2023,Unresolved,Unresolved,0,Neutral,Sikkim
+444156,90657,Cloud Storage,Product Quality,23-05-2024,20-06-2024 00:00,Resolved,28,Neutral,Delhi
+507881,21121,Customer Support Service,Billing,17-02-2024,05-03-2024 00:00,Resolved,17,Neutral,Tamil Nadu
+477749,29401,Customer Support Service,Technical Support,31-12-2023,13-01-2024 00:00,Resolved,13,Positive,Dadra and Nagar Haveli and Daman and Diu
+722162,75371,Cloud Storage,Technical Support,12-01-2024,31-01-2024 00:00,Resolved,19,Positive,Telangana
+734757,71182,Weight Loss Program,Service,09-05-2024,31-05-2024 00:00,Resolved,22,Neutral,West Bengal
+790250,39204,Weight Loss Program,Product Quality,02-02-2024,27-02-2024 00:00,Resolved,25,Neutral,Tripura
+640110,22977,Mobile Banking App,Billing,13-12-2023,27-12-2023 00:00,Resolved,14,Neutral,Daman and Diu
+944645,87849,Cloud Storage,Technical Support,21-10-2023,09-11-2023 00:00,Resolved,19,Positive,Uttar Pradesh
+340842,60013,Digital Scale,Product Quality,18-01-2024,11-02-2024 00:00,Resolved,24,Neutral,Goa
+422539,31718,Home Security System,Product Quality,12-02-2024,09-03-2024 00:00,Resolved,26,Neutral,Uttarakhand
+770869,86652,Customer Support Service,Technical Support,18-07-2024,21-07-2024 00:00,Resolved,3,Positive,Chhattisgarh
+465300,67163,Weight Loss Program,Service,14-05-2024,19-05-2024 00:00,Resolved,5,Neutral,West Bengal
+584845,76496,Drone Delivery Service,Product Quality,06-04-2024,19-04-2024 00:00,Resolved,13,Neutral,Jharkhand
+490294,64905,Weight Loss Program,Technical Support,10-02-2024,Unresolved,Unresolved,0,Positive,Andaman and Nicobar Islands
+770633,33880,Personal Safe,Technical Support,15-03-2024,02-04-2024 00:00,Resolved,18,Positive,Himachal Pradesh
+765406,84068,Mobile Banking App,Technical Support,12-09-2023,12-10-2023 00:00,Resolved,30,Positive,Chandigarh
+744654,97862,Personal Safe,Technical Support,07-11-2023,03-12-2023 00:00,Resolved,26,Positive,Jammu and Kashmir
+960296,47154,Digital Scale,Product Quality,25-01-2024,20-02-2024 00:00,Resolved,26,Neutral,Dadra and Nagar Haveli and Daman and Diu
+738037,30692,Drone Delivery Service,Billing,17-03-2024,11-04-2024 00:00,Resolved,25,Neutral,Puducherry
+279547,43131,Digital Scale,Delivery,15-04-2024,20-04-2024 00:00,Resolved,5,Neutral,Lakshadweep
+643470,69824,Drone Delivery Service,Technical Support,09-11-2023,13-11-2023 00:00,Resolved,4,Positive,Haryana
+198333,74773,Insurance Plan,Billing,06-07-2024,27-07-2024 00:00,Resolved,21,Neutral,Delhi
+990624,54602,Mobile Banking App,Billing,21-10-2023,19-11-2023 00:00,Resolved,29,Neutral,Karnataka
+603833,85937,Fitness Tracker,Delivery,02-03-2024,30-03-2024 00:00,Resolved,28,Neutral,Puducherry
+916589,42160,Drone Delivery Service,Service,20-12-2023,Unresolved,Unresolved,0,Neutral,Tamil Nadu
+214011,54861,Drone Delivery Service,Service,05-02-2024,22-02-2024 00:00,Resolved,17,Neutral,Jammu and Kashmir
+347330,45730,Cloud Storage,Service,07-06-2024,12-06-2024 00:00,Resolved,5,Neutral,Dadra and Nagar Haveli and Daman and Diu
+974934,14930,Personal Safe,Product Quality,08-08-2024,31-08-2024 00:00,Resolved,23,Neutral,Ladakh
+437932,91732,Mobile Banking App,Delivery,02-03-2024,25-03-2024 00:00,Resolved,23,Neutral,Kerala
+504613,65612,Customer Support Service,Product Quality,16-06-2024,17-06-2024 00:00,Resolved,1,Neutral,Goa
+155795,37240,Weight Loss Program,Billing,13-07-2024,20-07-2024 00:00,Resolved,7,Neutral,Delhi
+453883,40964,Fitness Tracker,Billing,06-02-2024,08-02-2024 00:00,Resolved,2,Neutral,Gujarat
+469577,49054,Cloud Storage,Service,02-02-2024,Unresolved,Unresolved,0,Neutral,Punjab
+328471,22638,Insurance Plan,Billing,18-06-2024,11-07-2024 00:00,Resolved,23,Neutral,Haryana
+695390,28521,Home Security System,Product Quality,28-11-2023,11-12-2023 00:00,Resolved,13,Neutral,Karnataka
+244195,10692,Home Security System,Delivery,12-08-2024,25-08-2024 00:00,Resolved,13,Neutral,Himachal Pradesh
+600371,75503,Insurance Plan,Delivery,21-07-2024,Unresolved,Unresolved,0,Neutral,Nagaland
+827477,95638,Mobile Banking App,Billing,25-05-2024,09-06-2024 00:00,Resolved,15,Neutral,Manipur
+963917,34479,Mobile Banking App,Service,29-07-2024,10-08-2024 00:00,Resolved,12,Neutral,Punjab
+535828,33382,Personal Safe,Service,04-09-2023,20-09-2023 00:00,Resolved,16,Neutral,Rajasthan
+817964,65342,Drone Delivery Service,Billing,25-11-2023,Unresolved,Unresolved,0,Neutral,Delhi
+664159,15051,Mobile Banking App,Technical Support,19-12-2023,21-12-2023 00:00,Resolved,2,Positive,Sikkim
+448071,85732,Insurance Plan,Billing,09-07-2024,30-07-2024 00:00,Resolved,21,Neutral,Puducherry
+505119,72595,Personal Safe,Technical Support,18-05-2024,Unresolved,Unresolved,0,Positive,Tamil Nadu
+478908,79315,Weight Loss Program,Technical Support,26-11-2023,17-12-2023 00:00,Resolved,21,Positive,West Bengal
+290210,54422,Mobile Banking App,Delivery,02-05-2024,18-05-2024 00:00,Resolved,16,Neutral,Telangana
+344633,35996,Drone Delivery Service,Product Quality,28-08-2024,Unresolved,Unresolved,0,Neutral,Lakshadweep
+843649,97687,Personal Safe,Service,19-02-2024,Unresolved,Unresolved,0,Neutral,Tripura
+532765,89064,Fitness Tracker,Product Quality,25-10-2023,30-10-2023 00:00,Resolved,5,Neutral,Delhi
+937505,37665,Cloud Storage,Billing,04-11-2023,05-11-2023 00:00,Resolved,1,Neutral,Uttar Pradesh
+667876,80444,Personal Safe,Service,06-09-2023,21-09-2023 00:00,Resolved,15,Neutral,Jammu and Kashmir
+115782,63410,Weight Loss Program,Service,13-05-2024,06-06-2024 00:00,Resolved,24,Neutral,Uttarakhand
+284250,34684,Drone Delivery Service,Service,08-05-2024,11-05-2024 00:00,Resolved,3,Neutral,Dadra and Nagar Haveli and Daman and Diu
+878132,17300,Digital Scale,Technical Support,28-10-2023,30-10-2023 00:00,Resolved,2,Positive,West Bengal
+301631,22053,Home Security System,Service,17-01-2024,03-02-2024 00:00,Resolved,17,Neutral,Puducherry
+955413,33158,Insurance Plan,Billing,19-11-2023,21-11-2023 00:00,Resolved,2,Neutral,Andaman and Nicobar Islands
+622350,73404,Personal Safe,Product Quality,18-07-2024,03-08-2024 00:00,Resolved,16,Neutral,Ladakh
+680037,76537,Weight Loss Program,Service,26-05-2024,06-06-2024 00:00,Resolved,11,Neutral,Chandigarh
+947370,71413,Digital Scale,Delivery,19-09-2023,Unresolved,Unresolved,0,Neutral,Tamil Nadu
+506233,12961,Drone Delivery Service,Service,09-12-2023,Unresolved,Unresolved,0,Neutral,Dadra and Nagar Haveli and Daman and Diu
+960566,18409,Digital Scale,Delivery,02-08-2024,15-08-2024 00:00,Resolved,13,Neutral,Tripura
+865841,64887,Drone Delivery Service,Delivery,24-12-2023,Unresolved,Unresolved,0,Neutral,Lakshadweep
+972664,78967,Fitness Tracker,Service,01-01-2024,12-01-2024 00:00,Resolved,11,Neutral,Himachal Pradesh
+164299,65533,Digital Scale,Product Quality,24-04-2024,08-05-2024 00:00,Resolved,14,Neutral,Karnataka
+304088,92240,Customer Support Service,Technical Support,14-02-2024,Unresolved,Unresolved,0,Positive,Odisha
+651292,57318,Customer Support Service,Service,28-05-2024,21-06-2024 00:00,Resolved,24,Neutral,Kerala
+560413,14913,Home Security System,Technical Support,14-11-2023,06-12-2023 00:00,Resolved,22,Positive,Nagaland
+414155,45553,Customer Support Service,Service,11-03-2024,03-04-2024 00:00,Resolved,23,Neutral,Madhya Pradesh
+687799,38376,Mobile Banking App,Technical Support,07-04-2024,Unresolved,Unresolved,0,Positive,Jharkhand
+266990,89574,Drone Delivery Service,Product Quality,13-10-2023,Unresolved,Unresolved,0,Neutral,Maharashtra
+526924,89565,Home Security System,Billing,18-04-2024,Unresolved,Unresolved,0,Neutral,Kerala
+769587,19057,Weight Loss Program,Billing,25-05-2024,11-06-2024 00:00,Resolved,17,Neutral,Manipur
+128204,75809,Drone Delivery Service,Product Quality,12-04-2024,17-04-2024 00:00,Resolved,5,Neutral,Bihar
+616063,49759,Cloud Storage,Technical Support,24-12-2023,19-01-2024 00:00,Resolved,26,Positive,West Bengal
+711908,74408,Customer Support Service,Delivery,14-02-2024,23-02-2024 00:00,Resolved,9,Neutral,Rajasthan
+639005,92658,Fitness Tracker,Service,07-01-2024,13-01-2024 00:00,Resolved,6,Neutral,Andaman and Nicobar Islands
+399237,54816,Weight Loss Program,Service,26-01-2024,04-02-2024 00:00,Resolved,9,Neutral,Maharashtra
+121083,94680,Mobile Banking App,Service,03-12-2023,10-12-2023 00:00,Resolved,7,Neutral,Chandigarh
+200868,81973,Customer Support Service,Billing,31-12-2023,11-01-2024 00:00,Resolved,11,Neutral,Karnataka
+999409,74698,Fitness Tracker,Product Quality,01-12-2023,Unresolved,Unresolved,0,Neutral,Dadra and Nagar Haveli and Daman and Diu
+362696,48254,Digital Scale,Billing,31-08-2023,Unresolved,Unresolved,0,Neutral,Odisha
+345669,40775,Drone Delivery Service,Service,31-05-2024,17-06-2024 00:00,Resolved,17,Neutral,Lakshadweep
+505430,43166,Cloud Storage,Delivery,02-11-2023,Unresolved,Unresolved,0,Neutral,Manipur
+116733,61197,Weight Loss Program,Technical Support,05-01-2024,06-01-2024 00:00,Resolved,1,Positive,Delhi
+964784,27929,Fitness Tracker,Technical Support,15-02-2024,16-02-2024 00:00,Resolved,1,Positive,Lakshadweep
+440587,63840,Drone Delivery Service,Service,21-03-2024,13-04-2024 00:00,Resolved,23,Neutral,Puducherry
+784655,72244,Digital Scale,Technical Support,16-01-2024,Unresolved,Unresolved,0,Positive,Daman and Diu
+377891,93809,Cloud Storage,Product Quality,02-07-2024,Unresolved,Unresolved,0,Neutral,Jammu and Kashmir
+123770,89341,Fitness Tracker,Product Quality,18-11-2023,23-11-2023 00:00,Resolved,5,Neutral,Tamil Nadu
+938426,51466,Customer Support Service,Technical Support,22-05-2024,20-06-2024 00:00,Resolved,29,Positive,Ladakh
+570276,79075,Digital Scale,Delivery,29-01-2024,08-02-2024 00:00,Resolved,10,Neutral,Tripura
+809982,49860,Home Security System,Product Quality,19-06-2024,29-06-2024 00:00,Resolved,10,Neutral,Arunachal Pradesh
+387573,74221,Digital Scale,Product Quality,10-05-2024,Unresolved,Unresolved,0,Neutral,Meghalaya
+463872,91309,Mobile Banking App,Delivery,05-05-2024,01-06-2024 00:00,Resolved,27,Neutral,Assam
+348737,62094,Drone Delivery Service,Billing,24-11-2023,15-12-2023 00:00,Resolved,21,Neutral,Mizoram
+308025,78537,Insurance Plan,Product Quality,01-01-2024,10-01-2024 00:00,Resolved,9,Neutral,Bihar
+652331,33050,Cloud Storage,Product Quality,11-11-2023,10-12-2023 00:00,Resolved,29,Neutral,Rajasthan
+285420,10452,Personal Safe,Billing,28-11-2023,Unresolved,Unresolved,0,Neutral,Chhattisgarh
+701490,27810,Weight Loss Program,Product Quality,04-05-2024,31-05-2024 00:00,Resolved,27,Neutral,Sikkim
+372638,72203,Weight Loss Program,Delivery,26-11-2023,Unresolved,Unresolved,0,Neutral,Goa
+272423,12117,Digital Scale,Product Quality,14-02-2024,02-03-2024 00:00,Resolved,17,Neutral,Haryana
+630429,90234,Insurance Plan,Service,07-03-2024,29-03-2024 00:00,Resolved,22,Neutral,Gujarat
+781139,79929,Insurance Plan,Technical Support,23-11-2023,02-12-2023 00:00,Resolved,9,Positive,Himachal Pradesh
+307219,20394,Mobile Banking App,Billing,24-11-2023,14-12-2023 00:00,Resolved,20,Neutral,Jammu and Kashmir
+295928,80077,Cloud Storage,Delivery,02-07-2024,Unresolved,Unresolved,0,Neutral,Jharkhand
+522290,16548,Home Security System,Billing,06-05-2024,08-05-2024 00:00,Resolved,2,Neutral,Delhi
+773821,90612,Insurance Plan,Product Quality,23-12-2023,21-01-2024 00:00,Resolved,29,Neutral,Karnataka
+714185,73738,Personal Safe,Service,11-10-2023,15-10-2023 00:00,Resolved,4,Neutral,Ladakh
+556747,74995,Weight Loss Program,Delivery,12-05-2024,30-05-2024 00:00,Resolved,18,Neutral,Kerala
+603009,72962,Customer Support Service,Technical Support,18-05-2024,01-06-2024 00:00,Resolved,14,Positive,Madhya Pradesh
+841313,55016,Customer Support Service,Technical Support,23-12-2023,22-01-2024 00:00,Resolved,30,Positive,Madhya Pradesh
+686296,36571,Insurance Plan,Delivery,05-01-2024,30-01-2024 00:00,Resolved,25,Neutral,Tamil Nadu
+334320,36089,Weight Loss Program,Delivery,19-05-2024,17-06-2024 00:00,Resolved,29,Neutral,Maharashtra
+929642,58712,Fitness Tracker,Technical Support,02-12-2023,27-12-2023 00:00,Resolved,25,Positive,Chhattisgarh
+342699,15671,Fitness Tracker,Service,03-09-2023,Unresolved,Unresolved,0,Neutral,Manipur
+647170,88497,Personal Safe,Delivery,27-01-2024,Unresolved,Unresolved,0,Neutral,Chandigarh
+990835,74052,Mobile Banking App,Delivery,10-10-2023,Unresolved,Unresolved,0,Neutral,Meghalaya
+380716,62430,Insurance Plan,Technical Support,17-06-2024,19-06-2024 00:00,Resolved,2,Positive,Punjab
+187483,61540,Home Security System,Technical Support,25-07-2024,13-08-2024 00:00,Resolved,19,Positive,Mizoram
+107287,88417,Customer Support Service,Technical Support,02-11-2023,22-11-2023 00:00,Resolved,20,Positive,Daman and Diu
+122412,72378,Cloud Storage,Billing,16-01-2024,27-01-2024 00:00,Resolved,11,Neutral,Nagaland
+700115,93834,Mobile Banking App,Billing,18-11-2023,Unresolved,Unresolved,0,Neutral,Andaman and Nicobar Islands
+670603,26346,Fitness Tracker,Technical Support,26-09-2023,Unresolved,Unresolved,0,Positive,Odisha
+846306,72107,Cloud Storage,Product Quality,22-01-2024,Unresolved,Unresolved,0,Neutral,Delhi
+959643,82560,Weight Loss Program,Billing,12-02-2024,18-02-2024 00:00,Resolved,6,Neutral,Punjab
+524129,19107,Personal Safe,Billing,01-07-2024,Unresolved,Unresolved,0,Neutral,Gujarat
+512179,39813,Weight Loss Program,Service,03-04-2024,21-04-2024 00:00,Resolved,18,Neutral,Rajasthan
+420112,12265,Customer Support Service,Service,27-12-2023,24-01-2024 00:00,Resolved,28,Neutral,Maharashtra
+570206,27689,Digital Scale,Delivery,14-06-2024,09-07-2024 00:00,Resolved,25,Neutral,Sikkim
+833155,23952,Fitness Tracker,Billing,28-06-2024,26-07-2024 00:00,Resolved,28,Neutral,Andhra Pradesh
+361324,26112,Fitness Tracker,Service,27-10-2023,17-11-2023 00:00,Resolved,21,Neutral,Tamil Nadu
+931323,77209,Insurance Plan,Product Quality,23-06-2024,16-07-2024 00:00,Resolved,23,Neutral,Himachal Pradesh
+782001,24072,Weight Loss Program,Technical Support,11-01-2024,21-01-2024 00:00,Resolved,10,Positive,Telangana
+936257,97409,Mobile Banking App,Product Quality,10-12-2023,02-01-2024 00:00,Resolved,23,Neutral,Uttarakhand
+303851,66489,Home Security System,Delivery,31-05-2024,13-06-2024 00:00,Resolved,13,Neutral,Tripura
+154001,58098,Drone Delivery Service,Service,10-02-2024,29-02-2024 00:00,Resolved,19,Neutral,Jharkhand
+576058,88557,Personal Safe,Product Quality,04-12-2023,Unresolved,Unresolved,0,Neutral,Uttar Pradesh
+386435,27812,Digital Scale,Technical Support,24-10-2023,30-10-2023 00:00,Resolved,6,Positive,Tripura
+739429,42084,Home Security System,Product Quality,22-12-2023,09-01-2024 00:00,Resolved,18,Neutral,Uttarakhand
+180584,86863,Insurance Plan,Delivery,08-07-2024,03-08-2024 00:00,Resolved,26,Neutral,Meghalaya
+592602,22300,Customer Support Service,Product Quality,18-04-2024,Unresolved,Unresolved,0,Neutral,West Bengal
+958175,83435,Mobile Banking App,Delivery,01-12-2023,20-12-2023 00:00,Resolved,19,Neutral,Mizoram
+907246,95240,Personal Safe,Service,18-06-2024,29-06-2024 00:00,Resolved,11,Neutral,Andaman and Nicobar Islands
+703335,49646,Personal Safe,Billing,22-10-2023,10-11-2023 00:00,Resolved,19,Neutral,Assam
+395329,52214,Cloud Storage,Product Quality,04-12-2023,13-12-2023 00:00,Resolved,9,Neutral,Chandigarh
+945740,58561,Digital Scale,Technical Support,01-02-2024,Unresolved,Unresolved,0,Positive,Bihar
+443456,98190,Personal Safe,Billing,01-07-2024,02-07-2024 00:00,Resolved,1,Neutral,Dadra and Nagar Haveli and Daman and Diu
+465822,80417,Fitness Tracker,Billing,30-08-2023,28-09-2023 00:00,Resolved,29,Neutral,Punjab
+159104,27288,Mobile Banking App,Technical Support,24-02-2024,10-03-2024 00:00,Resolved,15,Positive,Lakshadweep
+662710,12715,Home Security System,Delivery,02-07-2024,10-07-2024 00:00,Resolved,8,Neutral,Daman and Diu
+608432,76920,Personal Safe,Product Quality,02-06-2024,26-06-2024 00:00,Resolved,24,Neutral,Delhi
+142079,72581,Customer Support Service,Technical Support,20-09-2023,12-10-2023 00:00,Resolved,22,Positive,Gujarat
+747382,77701,Digital Scale,Service,02-09-2023,12-09-2023 00:00,Resolved,10,Neutral,Puducherry
+146094,70830,Customer Support Service,Delivery,29-08-2023,05-09-2023 00:00,Resolved,7,Neutral,Rajasthan
+126068,35426,Mobile Banking App,Product Quality,15-10-2023,08-11-2023 00:00,Resolved,24,Neutral,Jammu and Kashmir
+778073,69906,Drone Delivery Service,Technical Support,14-11-2023,24-11-2023 00:00,Resolved,10,Positive,Tripura
+178827,35836,Cloud Storage,Technical Support,30-11-2023,Unresolved,Unresolved,0,Positive,Ladakh
+495258,35193,Personal Safe,Delivery,29-05-2024,26-06-2024 00:00,Resolved,28,Neutral,Uttar Pradesh
+632028,19972,Home Security System,Delivery,01-02-2024,27-02-2024 00:00,Resolved,26,Neutral,Arunachal Pradesh
+590892,19636,Mobile Banking App,Service,27-11-2023,17-12-2023 00:00,Resolved,20,Neutral,Dadra and Nagar Haveli and Daman and Diu
+703008,83408,Personal Safe,Product Quality,16-09-2023,Unresolved,Unresolved,0,Neutral,Assam
+959378,75162,Personal Safe,Delivery,25-01-2024,09-02-2024 00:00,Resolved,15,Neutral,Daman and Diu
+952409,23346,Weight Loss Program,Service,19-10-2023,21-10-2023 00:00,Resolved,2,Neutral,Bihar
+178637,56921,Cloud Storage,Billing,06-12-2023,24-12-2023 00:00,Resolved,18,Neutral,Puducherry
+541798,25111,Digital Scale,Product Quality,22-05-2024,Unresolved,Unresolved,0,Neutral,Chhattisgarh
+274889,79157,Weight Loss Program,Technical Support,06-11-2023,27-11-2023 00:00,Resolved,21,Positive,Odisha
+561869,72892,Personal Safe,Product Quality,12-10-2023,Unresolved,Unresolved,0,Neutral,Goa
+105368,61420,Digital Scale,Technical Support,01-04-2024,18-04-2024 00:00,Resolved,17,Positive,Arunachal Pradesh
+797666,55491,Home Security System,Technical Support,29-11-2023,26-12-2023 00:00,Resolved,27,Positive,Gujarat
+207193,47452,Digital Scale,Technical Support,10-11-2023,10-12-2023 00:00,Resolved,30,Positive,Andhra Pradesh
+744211,75411,Cloud Storage,Service,17-01-2024,03-02-2024 00:00,Resolved,17,Neutral,Haryana
+914345,15274,Home Security System,Product Quality,19-02-2024,04-03-2024 00:00,Resolved,14,Neutral,Karnataka
+717107,81769,Fitness Tracker,Technical Support,24-03-2024,Unresolved,Unresolved,0,Positive,Himachal Pradesh
+177506,20982,Fitness Tracker,Delivery,20-11-2023,18-12-2023 00:00,Resolved,28,Neutral,Kerala
+601052,22615,Personal Safe,Product Quality,04-06-2024,06-06-2024 00:00,Resolved,2,Neutral,Jharkhand
+207366,90213,Drone Delivery Service,Billing,26-11-2023,19-12-2023 00:00,Resolved,23,Neutral,Tamil Nadu
+275937,86128,Home Security System,Technical Support,04-10-2023,27-10-2023 00:00,Resolved,23,Positive,Karnataka
+402266,13769,Weight Loss Program,Billing,05-06-2024,04-07-2024 00:00,Resolved,29,Neutral,Assam
+723332,23875,Home Security System,Service,11-06-2024,Unresolved,Unresolved,0,Neutral,Kerala
+512700,72971,Personal Safe,Service,08-09-2023,11-09-2023 00:00,Resolved,3,Neutral,Daman and Diu
+357092,99555,Insurance Plan,Technical Support,12-02-2024,23-02-2024 00:00,Resolved,11,Positive,Madhya Pradesh
+233286,85043,Weight Loss Program,Technical Support,12-09-2023,06-10-2023 00:00,Resolved,24,Positive,Goa
+551178,66525,Drone Delivery Service,Product Quality,19-04-2024,Unresolved,Unresolved,0,Neutral,Maharashtra
+122588,27288,Digital Scale,Billing,14-07-2024,25-07-2024 00:00,Resolved,11,Neutral,Jammu and Kashmir
+744639,81457,Mobile Banking App,Technical Support,07-02-2024,Unresolved,Unresolved,0,Positive,Manipur
+611665,39762,Personal Safe,Delivery,11-07-2024,20-07-2024 00:00,Resolved,9,Neutral,Haryana
+344507,30383,Fitness Tracker,Delivery,24-07-2024,Unresolved,Unresolved,0,Neutral,Meghalaya
+484880,19994,Cloud Storage,Product Quality,06-03-2024,20-03-2024 00:00,Resolved,14,Neutral,Nagaland
+658680,25261,Weight Loss Program,Service,02-09-2023,22-09-2023 00:00,Resolved,20,Neutral,Mizoram
+318799,42138,Personal Safe,Billing,02-11-2023,03-11-2023 00:00,Resolved,1,Neutral,Jharkhand
+378744,28617,Home Security System,Product Quality,04-05-2024,16-05-2024 00:00,Resolved,12,Neutral,Nagaland
+205335,49740,Cloud Storage,Product Quality,27-05-2024,03-06-2024 00:00,Resolved,7,Neutral,Punjab
+517440,58731,Drone Delivery Service,Product Quality,10-12-2023,11-12-2023 00:00,Resolved,1,Neutral,Odisha
+800923,63681,Fitness Tracker,Product Quality,12-04-2024,06-05-2024 00:00,Resolved,24,Neutral,Chandigarh
+103574,27328,Fitness Tracker,Delivery,19-10-2023,09-11-2023 00:00,Resolved,21,Neutral,Punjab
+586810,13423,Fitness Tracker,Product Quality,04-10-2023,30-10-2023 00:00,Resolved,26,Neutral,Chhattisgarh
+748717,85901,Personal Safe,Service,24-04-2024,29-04-2024 00:00,Resolved,5,Neutral,Rajasthan
+298716,46547,Insurance Plan,Technical Support,09-12-2023,08-01-2024 00:00,Resolved,30,Positive,Madhya Pradesh
+669037,34065,Personal Safe,Service,05-01-2024,30-01-2024 00:00,Resolved,25,Neutral,Sikkim
+905920,63027,Fitness Tracker,Product Quality,04-05-2024,25-05-2024 00:00,Resolved,21,Neutral,Karnataka
+825343,70164,Customer Support Service,Technical Support,12-04-2024,Unresolved,Unresolved,0,Positive,Tamil Nadu
+730865,16605,Drone Delivery Service,Delivery,16-05-2024,02-06-2024 00:00,Resolved,17,Neutral,Bihar
+499694,93449,Fitness Tracker,Billing,11-11-2023,25-11-2023 00:00,Resolved,14,Neutral,Telangana
+616115,33690,Fitness Tracker,Service,16-12-2023,Unresolved,Unresolved,0,Neutral,Nagaland
+677549,64867,Cloud Storage,Service,27-11-2023,Unresolved,Unresolved,0,Neutral,Tripura
+748064,33126,Digital Scale,Delivery,11-12-2023,26-12-2023 00:00,Resolved,15,Neutral,Assam
+123528,48767,Weight Loss Program,Billing,10-01-2024,05-02-2024 00:00,Resolved,26,Neutral,Uttar Pradesh
+597392,26112,Home Security System,Technical Support,22-03-2024,16-04-2024 00:00,Resolved,25,Positive,Mizoram
+594201,78896,Drone Delivery Service,Service,17-07-2024,03-08-2024 00:00,Resolved,17,Neutral,Uttarakhand
+831633,20386,Drone Delivery Service,Service,25-03-2024,05-04-2024 00:00,Resolved,11,Neutral,Jammu and Kashmir
+623442,23707,Cloud Storage,Product Quality,08-04-2024,29-04-2024 00:00,Resolved,21,Neutral,West Bengal
+449109,67727,Cloud Storage,Delivery,13-04-2024,03-05-2024 00:00,Resolved,20,Neutral,Daman and Diu
+553273,23894,Mobile Banking App,Service,24-09-2023,13-10-2023 00:00,Resolved,19,Neutral,Andaman and Nicobar Islands
+513649,43568,Cloud Storage,Product Quality,18-08-2024,31-08-2024 00:00,Resolved,13,Neutral,Uttar Pradesh
+775603,68819,Personal Safe,Technical Support,14-05-2024,08-06-2024 00:00,Resolved,25,Positive,Chandigarh
+602216,59921,Insurance Plan,Delivery,19-01-2024,08-02-2024 00:00,Resolved,20,Neutral,Telangana
+364104,58600,Cloud Storage,Delivery,02-11-2023,04-11-2023 00:00,Resolved,2,Neutral,Dadra and Nagar Haveli and Daman and Diu
+959755,19491,Cloud Storage,Technical Support,24-10-2023,04-11-2023 00:00,Resolved,11,Positive,Haryana
+148623,75917,Cloud Storage,Delivery,04-06-2024,02-07-2024 00:00,Resolved,28,Neutral,Lakshadweep
+178304,55472,Home Security System,Technical Support,17-03-2024,29-03-2024 00:00,Resolved,12,Positive,Andaman and Nicobar Islands
+593271,44826,Personal Safe,Service,21-06-2024,26-06-2024 00:00,Resolved,5,Neutral,Delhi
+451522,29233,Digital Scale,Product Quality,24-11-2023,18-12-2023 00:00,Resolved,24,Neutral,Chandigarh
+364976,38040,Fitness Tracker,Technical Support,02-11-2023,Unresolved,Unresolved,0,Positive,Puducherry
+513405,86761,Personal Safe,Technical Support,03-07-2024,28-07-2024 00:00,Resolved,25,Positive,Chhattisgarh
+276850,16891,Cloud Storage,Service,30-01-2024,16-02-2024 00:00,Resolved,17,Neutral,Jammu and Kashmir
+292395,98470,Weight Loss Program,Billing,16-03-2024,15-04-2024 00:00,Resolved,30,Neutral,Rajasthan
+225119,26100,Weight Loss Program,Technical Support,02-12-2023,Unresolved,Unresolved,0,Positive,Ladakh
+972685,52194,Cloud Storage,Product Quality,20-12-2023,03-01-2024 00:00,Resolved,14,Neutral,Jharkhand
+153088,63937,Drone Delivery Service,Service,17-06-2024,28-06-2024 00:00,Resolved,11,Neutral,Goa
+831650,98538,Fitness Tracker,Technical Support,25-02-2024,04-03-2024 00:00,Resolved,8,Positive,Maharashtra
+351542,54299,Cloud Storage,Technical Support,20-06-2024,21-06-2024 00:00,Resolved,1,Positive,Gujarat
+189588,34715,Digital Scale,Delivery,16-08-2024,08-09-2024 00:00,Resolved,23,Neutral,Daman and Diu
+965422,43733,Fitness Tracker,Service,02-10-2023,12-10-2023 00:00,Resolved,10,Neutral,Haryana
+477617,67875,Fitness Tracker,Delivery,19-11-2023,01-12-2023 00:00,Resolved,12,Neutral,Sikkim
+744061,20101,Mobile Banking App,Technical Support,03-10-2023,06-10-2023 00:00,Resolved,3,Positive,Himachal Pradesh
+994162,12337,Customer Support Service,Technical Support,09-04-2024,02-05-2024 00:00,Resolved,23,Positive,Arunachal Pradesh
+603852,56127,Customer Support Service,Billing,23-06-2024,22-07-2024 00:00,Resolved,29,Neutral,Jharkhand
+602096,63743,Fitness Tracker,Technical Support,26-09-2023,Unresolved,Unresolved,0,Positive,Andhra Pradesh
+247558,82822,Fitness Tracker,Technical Support,29-04-2024,Unresolved,Unresolved,0,Positive,Karnataka
+574326,63553,Weight Loss Program,Service,31-10-2023,24-11-2023 00:00,Resolved,24,Neutral,Tamil Nadu
+596870,13705,Customer Support Service,Product Quality,25-12-2023,29-12-2023 00:00,Resolved,4,Neutral,Kerala
+433716,33485,Home Security System,Service,31-01-2024,08-02-2024 00:00,Resolved,8,Neutral,Rajasthan
+533297,21877,Home Security System,Technical Support,11-12-2023,Unresolved,Unresolved,0,Positive,Madhya Pradesh
+761232,56391,Personal Safe,Delivery,20-04-2024,Unresolved,Unresolved,0,Neutral,Punjab
+891376,87550,Cloud Storage,Product Quality,29-07-2024,Unresolved,Unresolved,0,Neutral,Maharashtra
+507918,40414,Customer Support Service,Service,07-01-2024,15-01-2024 00:00,Resolved,8,Neutral,Goa
+381422,40413,Cloud Storage,Billing,04-04-2024,25-04-2024 00:00,Resolved,21,Neutral,Maharashtra
+795305,15104,Personal Safe,Delivery,29-06-2024,18-07-2024 00:00,Resolved,19,Neutral,Gujarat
+231128,90025,Weight Loss Program,Delivery,20-10-2023,18-11-2023 00:00,Resolved,29,Neutral,Madhya Pradesh
+492660,43436,Insurance Plan,Product Quality,09-11-2023,19-11-2023 00:00,Resolved,10,Neutral,Haryana
+650878,11553,Drone Delivery Service,Technical Support,18-09-2023,20-09-2023 00:00,Resolved,2,Positive,Bihar
+149381,54006,Digital Scale,Technical Support,30-04-2024,Unresolved,Unresolved,0,Positive,Himachal Pradesh
+682131,27689,Weight Loss Program,Product Quality,11-08-2024,03-09-2024 00:00,Resolved,23,Neutral,Uttar Pradesh
+965337,30762,Fitness Tracker,Service,21-11-2023,Unresolved,Unresolved,0,Neutral,Jharkhand
+536548,98958,Insurance Plan,Service,31-05-2024,Unresolved,Unresolved,0,Neutral,Rajasthan
+131041,99397,Insurance Plan,Delivery,16-02-2024,26-02-2024 00:00,Resolved,10,Neutral,Karnataka
+735266,74243,Weight Loss Program,Delivery,21-06-2024,18-07-2024 00:00,Resolved,27,Neutral,Mizoram
+263192,31870,Mobile Banking App,Product Quality,28-09-2023,23-10-2023 00:00,Resolved,25,Neutral,Kerala
+799683,99697,Fitness Tracker,Product Quality,25-06-2024,29-06-2024 00:00,Resolved,4,Neutral,Uttar Pradesh
+653791,94573,Drone Delivery Service,Service,31-01-2024,16-02-2024 00:00,Resolved,16,Neutral,Madhya Pradesh
+451707,10320,Fitness Tracker,Technical Support,10-10-2023,Unresolved,Unresolved,0,Positive,Delhi
+105841,98199,Customer Support Service,Product Quality,25-03-2024,18-04-2024 00:00,Resolved,24,Neutral,Maharashtra
+390682,52301,Personal Safe,Product Quality,13-12-2023,04-01-2024 00:00,Resolved,22,Neutral,Rajasthan
+899948,59990,Insurance Plan,Service,12-07-2024,29-07-2024 00:00,Resolved,17,Neutral,Manipur
+290963,56614,Fitness Tracker,Technical Support,20-10-2023,07-11-2023 00:00,Resolved,18,Positive,Madhya Pradesh
+702971,96350,Fitness Tracker,Technical Support,21-10-2023,11-11-2023 00:00,Resolved,21,Positive,Meghalaya
+962739,41632,Personal Safe,Service,27-02-2024,10-03-2024 00:00,Resolved,12,Neutral,Karnataka
+673541,22719,Cloud Storage,Delivery,04-06-2024,10-06-2024 00:00,Resolved,6,Neutral,Mizoram
+303384,16962,Cloud Storage,Service,01-09-2023,28-09-2023 00:00,Resolved,27,Neutral,Kerala
+645465,16975,Digital Scale,Delivery,02-11-2023,07-11-2023 00:00,Resolved,5,Neutral,Nagaland
+345602,66597,Insurance Plan,Product Quality,19-02-2024,26-02-2024 00:00,Resolved,7,Neutral,Sikkim
+164896,31691,Drone Delivery Service,Billing,12-03-2024,21-03-2024 00:00,Resolved,9,Neutral,Odisha
+741452,93932,Insurance Plan,Product Quality,15-12-2023,21-12-2023 00:00,Resolved,6,Neutral,Madhya Pradesh
+913358,69084,Customer Support Service,Billing,02-01-2024,Unresolved,Unresolved,0,Neutral,Punjab
+415761,25575,Personal Safe,Technical Support,24-02-2024,03-03-2024 00:00,Resolved,8,Positive,Karnataka
+868087,78302,Drone Delivery Service,Service,23-11-2023,10-12-2023 00:00,Resolved,17,Neutral,Rajasthan
+773855,48135,Mobile Banking App,Service,13-09-2023,10-10-2023 00:00,Resolved,27,Neutral,Madhya Pradesh
+582157,86303,Customer Support Service,Billing,28-04-2024,Unresolved,Unresolved,0,Neutral,Sikkim
+532037,92514,Mobile Banking App,Service,13-02-2024,16-02-2024 00:00,Resolved,3,Neutral,Karnataka
+432472,64657,Drone Delivery Service,Service,22-11-2023,22-12-2023 00:00,Resolved,30,Neutral,Tamil Nadu
+732448,38588,Mobile Banking App,Billing,24-12-2023,Unresolved,Unresolved,0,Neutral,Puducherry
+315522,97200,Customer Support Service,Service,25-08-2024,01-09-2024 00:00,Resolved,7,Neutral,Telangana
+188919,42146,Customer Support Service,Technical Support,10-10-2023,28-10-2023 00:00,Resolved,18,Positive,Delhi
+888015,93030,Mobile Banking App,Billing,14-04-2024,11-05-2024 00:00,Resolved,27,Neutral,Tripura
+820299,31159,Personal Safe,Delivery,13-08-2024,17-08-2024 00:00,Resolved,4,Neutral,Lakshadweep
+272751,55174,Home Security System,Service,22-09-2023,15-10-2023 00:00,Resolved,23,Neutral,Uttar Pradesh
+832807,69925,Personal Safe,Technical Support,02-11-2023,21-11-2023 00:00,Resolved,19,Positive,Dadra and Nagar Haveli and Daman and Diu
+910684,34865,Fitness Tracker,Billing,18-08-2024,29-08-2024 00:00,Resolved,11,Neutral,Uttarakhand
+820220,86501,Cloud Storage,Product Quality,28-02-2024,04-03-2024 00:00,Resolved,5,Neutral,Chandigarh
+295185,93862,Customer Support Service,Delivery,01-09-2023,21-09-2023 00:00,Resolved,20,Neutral,West Bengal
+444400,77750,Mobile Banking App,Technical Support,26-07-2024,06-08-2024 00:00,Resolved,11,Positive,Haryana
+910277,62171,Mobile Banking App,Billing,25-07-2024,02-08-2024 00:00,Resolved,8,Neutral,Andaman and Nicobar Islands
+792947,91730,Drone Delivery Service,Billing,26-01-2024,01-02-2024 00:00,Resolved,6,Neutral,Goa
+744045,98470,Personal Safe,Product Quality,09-06-2024,12-06-2024 00:00,Resolved,3,Neutral,Chandigarh
+476342,49875,Mobile Banking App,Service,15-11-2023,17-11-2023 00:00,Resolved,2,Neutral,Delhi
+467026,33442,Home Security System,Delivery,26-08-2024,02-09-2024 00:00,Resolved,7,Neutral,Dadra and Nagar Haveli and Daman and Diu
+784625,53832,Weight Loss Program,Billing,25-12-2023,01-01-2024 00:00,Resolved,7,Neutral,Madhya Pradesh
+115642,94704,Insurance Plan,Service,07-02-2024,01-03-2024 00:00,Resolved,23,Neutral,Lakshadweep
+408633,55173,Weight Loss Program,Service,22-09-2023,Unresolved,Unresolved,0,Neutral,Andaman and Nicobar Islands
+175482,34652,Digital Scale,Product Quality,23-03-2024,02-04-2024 00:00,Resolved,10,Neutral,Delhi
+497965,78403,Digital Scale,Technical Support,21-03-2024,31-03-2024 00:00,Resolved,10,Positive,West Bengal
+245294,50561,Weight Loss Program,Service,19-05-2024,11-06-2024 00:00,Resolved,23,Neutral,Puducherry
+938470,14604,Insurance Plan,Service,04-02-2024,Unresolved,Unresolved,0,Neutral,Tripura
+690984,56058,Weight Loss Program,Billing,22-09-2023,18-10-2023 00:00,Resolved,26,Neutral,Jammu and Kashmir
+593897,17239,Personal Safe,Delivery,19-08-2024,06-09-2024 00:00,Resolved,18,Neutral,Daman and Diu
+880705,98935,Fitness Tracker,Billing,22-08-2024,30-08-2024 00:00,Resolved,8,Neutral,Karnataka
+363099,68347,Home Security System,Product Quality,18-09-2023,12-10-2023 00:00,Resolved,24,Neutral,Bihar
+496348,40799,Customer Support Service,Service,09-09-2023,26-09-2023 00:00,Resolved,17,Neutral,Kerala
+372371,18775,Personal Safe,Delivery,09-06-2024,22-06-2024 00:00,Resolved,13,Neutral,Assam
+400264,45334,Home Security System,Billing,06-11-2023,Unresolved,Unresolved,0,Neutral,Madhya Pradesh
+947197,55149,Fitness Tracker,Delivery,01-01-2024,28-01-2024 00:00,Resolved,27,Neutral,Manipur
+163862,76291,Personal Safe,Technical Support,05-01-2024,08-01-2024 00:00,Resolved,3,Positive,Maharashtra
+990873,49434,Customer Support Service,Product Quality,21-05-2024,Unresolved,Unresolved,0,Neutral,Jammu and Kashmir
+737725,17133,Digital Scale,Product Quality,07-10-2023,24-10-2023 00:00,Resolved,17,Neutral,Manipur
+437155,81312,Insurance Plan,Service,04-07-2024,03-08-2024 00:00,Resolved,30,Neutral,Ladakh
+822691,76494,Insurance Plan,Billing,14-09-2023,05-10-2023 00:00,Resolved,21,Neutral,Meghalaya
+971815,27320,Cloud Storage,Delivery,19-02-2024,12-03-2024 00:00,Resolved,22,Neutral,West Bengal
+956637,44191,Fitness Tracker,Technical Support,31-08-2023,07-09-2023 00:00,Resolved,7,Positive,Mizoram
+222981,34184,Cloud Storage,Delivery,16-05-2024,10-06-2024 00:00,Resolved,25,Neutral,Karnataka
+471551,87889,Customer Support Service,Delivery,05-07-2024,Unresolved,Unresolved,0,Neutral,Nagaland
+959994,93346,Cloud Storage,Service,13-06-2024,04-07-2024 00:00,Resolved,21,Neutral,Delhi
+508902,93011,Personal Safe,Billing,05-09-2023,08-09-2023 00:00,Resolved,3,Neutral,Odisha
+286528,90906,Home Security System,Product Quality,23-07-2024,18-08-2024 00:00,Resolved,26,Neutral,Lakshadweep
+102441,82577,Digital Scale,Service,08-05-2024,06-06-2024 00:00,Resolved,29,Neutral,Punjab
+127125,66261,Digital Scale,Delivery,14-09-2023,29-09-2023 00:00,Resolved,15,Neutral,Maharashtra
+758898,19772,Mobile Banking App,Delivery,12-02-2024,04-03-2024 00:00,Resolved,21,Neutral,Rajasthan
+235893,65895,Drone Delivery Service,Technical Support,02-01-2024,03-01-2024 00:00,Resolved,1,Positive,Kerala
+619266,17439,Insurance Plan,Service,18-03-2024,23-03-2024 00:00,Resolved,5,Neutral,Sikkim
+268862,99048,Fitness Tracker,Billing,03-07-2024,27-07-2024 00:00,Resolved,24,Neutral,Andhra Pradesh
+863856,43236,Fitness Tracker,Technical Support,13-07-2024,03-08-2024 00:00,Resolved,21,Positive,Tamil Nadu
+301168,54637,Cloud Storage,Technical Support,22-05-2024,14-06-2024 00:00,Resolved,23,Positive,Arunachal Pradesh
+552420,64060,Fitness Tracker,Service,30-05-2024,Unresolved,Unresolved,0,Neutral,Telangana
+881446,60252,Customer Support Service,Service,28-03-2024,29-03-2024 00:00,Resolved,1,Neutral,Uttar Pradesh
+401012,32140,Fitness Tracker,Delivery,11-01-2024,Unresolved,Unresolved,0,Neutral,Tripura
+477641,13752,Drone Delivery Service,Delivery,07-01-2024,26-01-2024 00:00,Resolved,19,Neutral,Lakshadweep
+377081,44447,Drone Delivery Service,Service,28-04-2024,Unresolved,Unresolved,0,Neutral,Nagaland
+958460,57978,Personal Safe,Product Quality,03-12-2023,14-12-2023 00:00,Resolved,11,Neutral,Daman and Diu
+723555,71064,Mobile Banking App,Delivery,06-05-2024,19-05-2024 00:00,Resolved,13,Neutral,Uttarakhand
+565433,71931,Digital Scale,Technical Support,05-01-2024,23-01-2024 00:00,Resolved,18,Positive,Chhattisgarh
+152812,38669,Digital Scale,Service,08-02-2024,14-02-2024 00:00,Resolved,6,Neutral,West Bengal
+334047,60109,Fitness Tracker,Billing,07-07-2024,16-07-2024 00:00,Resolved,9,Neutral,Ladakh
+881916,66824,Customer Support Service,Service,24-02-2024,Unresolved,Unresolved,0,Neutral,Andaman and Nicobar Islands
+601488,27568,Insurance Plan,Billing,13-07-2024,19-07-2024 00:00,Resolved,6,Neutral,Bihar
+628555,71065,Personal Safe,Technical Support,09-10-2023,04-11-2023 00:00,Resolved,26,Positive,Chandigarh
+642247,80617,Digital Scale,Service,14-12-2023,18-12-2023 00:00,Resolved,4,Neutral,Uttar Pradesh
+868891,68414,Fitness Tracker,Product Quality,11-08-2024,21-08-2024 00:00,Resolved,10,Neutral,Dadra and Nagar Haveli and Daman and Diu
+896381,86454,Insurance Plan,Service,07-11-2023,05-12-2023 00:00,Resolved,28,Neutral,Himachal Pradesh
+658625,81395,Weight Loss Program,Technical Support,12-06-2024,22-06-2024 00:00,Resolved,10,Positive,Lakshadweep
+781504,44772,Home Security System,Service,28-06-2024,Unresolved,Unresolved,0,Neutral,Meghalaya
+882308,79498,Drone Delivery Service,Service,09-01-2024,Unresolved,Unresolved,0,Neutral,Delhi
+617767,62940,Fitness Tracker,Service,27-05-2024,Unresolved,Unresolved,0,Neutral,Karnataka
+119372,65347,Fitness Tracker,Delivery,10-01-2024,07-02-2024 00:00,Resolved,28,Neutral,Puducherry
+857182,38803,Drone Delivery Service,Technical Support,09-12-2023,12-12-2023 00:00,Resolved,3,Positive,Delhi
+546506,18737,Personal Safe,Service,16-12-2023,13-01-2024 00:00,Resolved,28,Neutral,Jammu and Kashmir
+453452,66546,Home Security System,Technical Support,30-03-2024,15-04-2024 00:00,Resolved,16,Positive,Punjab
+450050,53993,Mobile Banking App,Delivery,13-09-2023,Unresolved,Unresolved,0,Neutral,Ladakh
+577369,31905,Insurance Plan,Technical Support,30-09-2023,03-10-2023 00:00,Resolved,3,Positive,Sikkim
+962050,68712,Drone Delivery Service,Technical Support,02-04-2024,02-05-2024 00:00,Resolved,30,Positive,Arunachal Pradesh
+612969,92844,Home Security System,Product Quality,10-09-2023,Unresolved,Unresolved,0,Neutral,Gujarat
+138805,11907,Personal Safe,Billing,27-04-2024,08-05-2024 00:00,Resolved,11,Neutral,Assam
+836576,15618,Mobile Banking App,Product Quality,22-04-2024,13-05-2024 00:00,Resolved,21,Neutral,Puducherry
+559546,62996,Insurance Plan,Service,28-06-2024,07-07-2024 00:00,Resolved,9,Neutral,Bihar
+139396,28604,Drone Delivery Service,Technical Support,03-10-2023,11-10-2023 00:00,Resolved,8,Positive,Assam
+161384,16128,Drone Delivery Service,Product Quality,16-11-2023,23-11-2023 00:00,Resolved,7,Neutral,Chhattisgarh
+657265,85710,Digital Scale,Billing,07-10-2023,03-11-2023 00:00,Resolved,27,Neutral,Chandigarh
+605228,18920,Weight Loss Program,Technical Support,12-01-2024,24-01-2024 00:00,Resolved,12,Positive,Goa
+150546,12762,Insurance Plan,Technical Support,30-03-2024,11-04-2024 00:00,Resolved,12,Positive,Haryana
+925349,98523,Mobile Banking App,Delivery,19-11-2023,16-12-2023 00:00,Resolved,27,Neutral,Gujarat
+143014,26000,Weight Loss Program,Billing,09-06-2024,24-06-2024 00:00,Resolved,15,Neutral,Madhya Pradesh
+170479,53496,Home Security System,Delivery,03-01-2024,23-01-2024 00:00,Resolved,20,Neutral,Haryana
+104266,77521,Personal Safe,Billing,02-09-2023,20-09-2023 00:00,Resolved,18,Neutral,Maharashtra
+300785,89293,Home Security System,Service,24-04-2024,02-05-2024 00:00,Resolved,8,Neutral,Himachal Pradesh
+183285,12896,Home Security System,Service,07-08-2024,Unresolved,Unresolved,0,Neutral,Bihar
+214134,47873,Insurance Plan,Delivery,17-01-2024,13-02-2024 00:00,Resolved,27,Neutral,Jharkhand
+746234,72393,Mobile Banking App,Billing,16-12-2023,17-12-2023 00:00,Resolved,1,Neutral,Ladakh
+664694,83773,Weight Loss Program,Delivery,02-05-2024,20-05-2024 00:00,Resolved,18,Neutral,Karnataka
+252599,12905,Digital Scale,Delivery,06-01-2024,08-01-2024 00:00,Resolved,2,Neutral,Arunachal Pradesh
+125123,30569,Drone Delivery Service,Service,06-05-2024,12-05-2024 00:00,Resolved,6,Neutral,Kerala
+271758,69433,Weight Loss Program,Delivery,10-07-2024,29-07-2024 00:00,Resolved,19,Neutral,Andhra Pradesh
+176853,59840,Mobile Banking App,Technical Support,02-07-2024,15-07-2024 00:00,Resolved,13,Positive,Madhya Pradesh
+699947,44178,Customer Support Service,Technical Support,02-08-2024,09-08-2024 00:00,Resolved,7,Positive,Mizoram
+678523,87500,Mobile Banking App,Delivery,06-12-2023,Unresolved,Unresolved,0,Neutral,Maharashtra
+887458,32706,Drone Delivery Service,Billing,16-02-2024,28-02-2024 00:00,Resolved,12,Neutral,Tripura
+364236,12661,Drone Delivery Service,Billing,07-04-2024,14-04-2024 00:00,Resolved,7,Neutral,Manipur
+628934,58515,Digital Scale,Service,24-10-2023,15-11-2023 00:00,Resolved,22,Neutral,Jharkhand
+417671,78431,Drone Delivery Service,Delivery,26-11-2023,Unresolved,Unresolved,0,Neutral,Meghalaya
+391080,92186,Mobile Banking App,Technical Support,06-07-2024,10-07-2024 00:00,Resolved,4,Positive,West Bengal
+810917,82502,Cloud Storage,Product Quality,08-06-2024,09-06-2024 00:00,Resolved,1,Neutral,Mizoram
+112408,32928,Drone Delivery Service,Service,27-09-2023,Unresolved,Unresolved,0,Neutral,Kerala
+214732,11823,Customer Support Service,Product Quality,01-06-2024,02-06-2024 00:00,Resolved,1,Neutral,Nagaland
+347358,58106,Drone Delivery Service,Billing,25-01-2024,19-02-2024 00:00,Resolved,25,Neutral,Arunachal Pradesh
+583478,87256,Customer Support Service,Billing,15-12-2023,18-12-2023 00:00,Resolved,3,Neutral,Odisha
+161264,57564,Drone Delivery Service,Service,13-07-2024,19-07-2024 00:00,Resolved,6,Neutral,Dadra and Nagar Haveli and Daman and Diu
+410498,75928,Digital Scale,Billing,01-08-2024,25-08-2024 00:00,Resolved,24,Neutral,Punjab
+479524,75312,Digital Scale,Service,20-09-2023,19-10-2023 00:00,Resolved,29,Neutral,Daman and Diu
+894423,77788,Weight Loss Program,Service,14-05-2024,18-05-2024 00:00,Resolved,4,Neutral,Rajasthan
+987452,92435,Digital Scale,Product Quality,17-09-2023,29-09-2023 00:00,Resolved,12,Neutral,Maharashtra
+994876,34356,Personal Safe,Technical Support,28-03-2024,02-04-2024 00:00,Resolved,5,Positive,Sikkim
+995257,55780,Personal Safe,Delivery,02-10-2023,07-10-2023 00:00,Resolved,5,Neutral,Uttarakhand
+780053,85077,Weight Loss Program,Delivery,08-09-2023,10-09-2023 00:00,Resolved,2,Neutral,Tamil Nadu
+595389,71057,Personal Safe,Delivery,14-11-2023,30-11-2023 00:00,Resolved,16,Neutral,Uttar Pradesh
+692036,86617,Digital Scale,Service,22-02-2024,01-03-2024 00:00,Resolved,8,Neutral,Telangana
+932135,88323,Customer Support Service,Billing,29-07-2024,01-08-2024 00:00,Resolved,3,Neutral,Tamil Nadu
+333376,45297,Customer Support Service,Service,15-06-2024,30-06-2024 00:00,Resolved,15,Neutral,Tripura
+556422,82850,Drone Delivery Service,Technical Support,27-04-2024,Unresolved,Unresolved,0,Positive,Meghalaya
+676955,87631,Cloud Storage,Product Quality,08-12-2023,11-12-2023 00:00,Resolved,3,Neutral,Uttar Pradesh
+269543,33840,Digital Scale,Billing,06-02-2024,26-02-2024 00:00,Resolved,20,Neutral,Jammu and Kashmir
+812714,26560,Drone Delivery Service,Service,30-05-2024,11-06-2024 00:00,Resolved,12,Neutral,Uttarakhand
+952176,93400,Weight Loss Program,Delivery,14-03-2024,28-03-2024 00:00,Resolved,14,Neutral,Daman and Diu
+978148,67236,Insurance Plan,Billing,16-02-2024,09-03-2024 00:00,Resolved,22,Neutral,West Bengal
+927730,55043,Mobile Banking App,Product Quality,17-01-2024,Unresolved,Unresolved,0,Neutral,Gujarat
+883210,24968,Drone Delivery Service,Service,15-07-2024,03-08-2024 00:00,Resolved,19,Neutral,Andaman and Nicobar Islands
+374939,11233,Fitness Tracker,Product Quality,27-03-2024,18-04-2024 00:00,Resolved,22,Neutral,Rajasthan
+800657,22568,Insurance Plan,Technical Support,28-10-2023,03-11-2023 00:00,Resolved,6,Positive,Chandigarh
+710548,86389,Customer Support Service,Technical Support,09-10-2023,13-10-2023 00:00,Resolved,4,Positive,Jharkhand
+328272,68450,Fitness Tracker,Technical Support,13-04-2024,07-05-2024 00:00,Resolved,24,Positive,Dadra and Nagar Haveli and Daman and Diu
+784335,84322,Weight Loss Program,Product Quality,11-08-2024,Unresolved,Unresolved,0,Neutral,Bihar
+913991,85278,Fitness Tracker,Service,01-02-2024,14-02-2024 00:00,Resolved,13,Neutral,Lakshadweep
+341088,46747,Customer Support Service,Delivery,14-10-2023,24-10-2023 00:00,Resolved,10,Neutral,Haryana
+687616,26815,Mobile Banking App,Billing,29-07-2024,26-08-2024 00:00,Resolved,28,Neutral,Delhi
+425195,56912,Mobile Banking App,Technical Support,15-06-2024,Unresolved,Unresolved,0,Positive,Telangana
+307434,97303,Drone Delivery Service,Product Quality,08-05-2024,22-05-2024 00:00,Resolved,14,Neutral,Puducherry
+541577,71597,Digital Scale,Product Quality,10-01-2024,Unresolved,Unresolved,0,Neutral,Chhattisgarh
+471066,27275,Fitness Tracker,Product Quality,25-05-2024,27-05-2024 00:00,Resolved,2,Neutral,Jammu and Kashmir
+817709,49997,Drone Delivery Service,Product Quality,01-04-2024,17-04-2024 00:00,Resolved,16,Neutral,Chandigarh
+429894,63909,Personal Safe,Billing,07-06-2024,26-06-2024 00:00,Resolved,19,Neutral,Ladakh
+434883,50219,Customer Support Service,Service,11-04-2024,04-05-2024 00:00,Resolved,23,Neutral,Daman and Diu
+837847,81243,Drone Delivery Service,Delivery,27-06-2024,22-07-2024 00:00,Resolved,25,Neutral,Goa
+461668,62868,Fitness Tracker,Technical Support,05-01-2024,Unresolved,Unresolved,0,Positive,Maharashtra
+749301,68856,Cloud Storage,Product Quality,02-02-2024,22-02-2024 00:00,Resolved,20,Neutral,Gujarat
+879800,71819,Mobile Banking App,Service,30-01-2024,11-02-2024 00:00,Resolved,12,Neutral,Madhya Pradesh
+860141,94682,Home Security System,Billing,22-02-2024,12-03-2024 00:00,Resolved,19,Neutral,Haryana
+797083,77763,Weight Loss Program,Product Quality,07-03-2024,09-03-2024 00:00,Resolved,2,Neutral,Bihar
+250059,16324,Weight Loss Program,Billing,08-06-2024,28-06-2024 00:00,Resolved,20,Neutral,Himachal Pradesh
+505325,80596,Customer Support Service,Service,10-09-2023,26-09-2023 00:00,Resolved,16,Neutral,Uttar Pradesh
+992144,82545,Insurance Plan,Service,15-01-2024,02-02-2024 00:00,Resolved,18,Neutral,Jharkhand
+579998,55573,Drone Delivery Service,Billing,16-09-2023,24-09-2023 00:00,Resolved,8,Neutral,Rajasthan
+224912,13321,Insurance Plan,Service,09-09-2023,05-10-2023 00:00,Resolved,26,Neutral,Karnataka
+703767,22494,Cloud Storage,Technical Support,11-12-2023,28-12-2023 00:00,Resolved,17,Positive,Mizoram
+506946,62223,Insurance Plan,Product Quality,03-07-2024,30-07-2024 00:00,Resolved,27,Neutral,Kerala
+545167,54629,Insurance Plan,Product Quality,26-02-2024,13-03-2024 00:00,Resolved,16,Neutral,Uttar Pradesh
+253269,32195,Drone Delivery Service,Billing,30-09-2023,12-10-2023 00:00,Resolved,12,Neutral,Madhya Pradesh
+303414,69529,Mobile Banking App,Product Quality,05-10-2023,Unresolved,Unresolved,0,Neutral,Delhi
+921961,69522,Cloud Storage,Delivery,21-02-2024,17-03-2024 00:00,Resolved,25,Neutral,Maharashtra
+460292,85990,Mobile Banking App,Billing,13-02-2024,16-02-2024 00:00,Resolved,3,Neutral,Rajasthan
+765846,88322,Home Security System,Technical Support,10-05-2024,15-05-2024 00:00,Resolved,5,Positive,Manipur
+531284,60165,Digital Scale,Technical Support,11-01-2024,08-02-2024 00:00,Resolved,28,Positive,Madhya Pradesh
+898227,31431,Weight Loss Program,Delivery,29-03-2024,Unresolved,Unresolved,0,Neutral,Meghalaya
+246196,85130,Mobile Banking App,Billing,17-05-2024,01-06-2024 00:00,Resolved,15,Neutral,Karnataka
+789020,40590,Weight Loss Program,Product Quality,05-01-2024,29-01-2024 00:00,Resolved,24,Neutral,Mizoram
+851126,13878,Customer Support Service,Delivery,18-01-2024,Unresolved,Unresolved,0,Neutral,Kerala
+657669,61680,Weight Loss Program,Delivery,16-05-2024,06-06-2024 00:00,Resolved,21,Neutral,Nagaland
+620704,29532,Customer Support Service,Product Quality,04-03-2024,Unresolved,Unresolved,0,Neutral,Sikkim
+734566,50673,Home Security System,Delivery,26-02-2024,12-03-2024 00:00,Resolved,15,Neutral,Odisha
+744298,56715,Insurance Plan,Product Quality,26-05-2024,04-06-2024 00:00,Resolved,9,Neutral,Madhya Pradesh
+504364,89774,Drone Delivery Service,Delivery,30-08-2023,04-09-2023 00:00,Resolved,5,Neutral,Punjab
+154785,61672,Cloud Storage,Technical Support,26-03-2024,Unresolved,Unresolved,0,Positive,Karnataka
+781693,14476,Drone Delivery Service,Product Quality,08-03-2024,03-04-2024 00:00,Resolved,26,Neutral,Rajasthan
+878041,40917,Digital Scale,Service,03-02-2024,03-03-2024 00:00,Resolved,29,Neutral,Madhya Pradesh
+897829,82160,Cloud Storage,Billing,27-03-2024,23-04-2024 00:00,Resolved,27,Neutral,Sikkim
+826365,17578,Fitness Tracker,Billing,10-01-2024,24-01-2024 00:00,Resolved,14,Neutral,Karnataka
+680133,20872,Digital Scale,Delivery,02-11-2023,27-11-2023 00:00,Resolved,25,Neutral,Tamil Nadu
+195545,68302,Home Security System,Product Quality,09-08-2024,15-08-2024 00:00,Resolved,6,Neutral,Puducherry
+816272,31179,Insurance Plan,Technical Support,14-10-2023,09-11-2023 00:00,Resolved,26,Positive,Telangana
+641745,90250,Digital Scale,Billing,02-10-2023,17-10-2023 00:00,Resolved,15,Neutral,Delhi
+995280,46413,Mobile Banking App,Delivery,14-07-2024,16-07-2024 00:00,Resolved,2,Neutral,Tripura
+955311,33716,Cloud Storage,Technical Support,15-02-2024,28-02-2024 00:00,Resolved,13,Positive,Lakshadweep
+879717,45211,Weight Loss Program,Product Quality,12-10-2023,10-11-2023 00:00,Resolved,29,Neutral,Uttar Pradesh
+215712,63033,Fitness Tracker,Billing,15-02-2024,08-03-2024 00:00,Resolved,22,Neutral,Dadra and Nagar Haveli and Daman and Diu
+916312,49883,Insurance Plan,Delivery,28-12-2023,10-01-2024 00:00,Resolved,13,Neutral,Uttarakhand
+902812,92332,Insurance Plan,Product Quality,19-07-2024,24-07-2024 00:00,Resolved,5,Neutral,Chandigarh
+130762,92516,Digital Scale,Product Quality,12-07-2024,02-08-2024 00:00,Resolved,21,Neutral,West Bengal
+387277,72322,Personal Safe,Billing,18-07-2024,31-07-2024 00:00,Resolved,13,Neutral,Haryana
+845476,83506,Personal Safe,Billing,21-11-2023,23-11-2023 00:00,Resolved,2,Neutral,Andaman and Nicobar Islands
+780379,13131,Home Security System,Technical Support,23-05-2024,Unresolved,Unresolved,0,Positive,Goa
+957017,40857,Insurance Plan,Billing,30-05-2024,10-06-2024 00:00,Resolved,11,Neutral,Chandigarh
+381457,46647,Personal Safe,Billing,09-09-2023,16-09-2023 00:00,Resolved,7,Neutral,Delhi
+705401,96178,Weight Loss Program,Service,17-11-2023,20-11-2023 00:00,Resolved,3,Neutral,Dadra and Nagar Haveli and Daman and Diu
+576694,77130,Weight Loss Program,Service,12-03-2024,30-03-2024 00:00,Resolved,18,Neutral,Madhya Pradesh
+376805,69967,Customer Support Service,Technical Support,01-06-2024,06-06-2024 00:00,Resolved,5,Positive,Lakshadweep
+942579,54627,Customer Support Service,Billing,15-07-2024,18-07-2024 00:00,Resolved,3,Neutral,Andaman and Nicobar Islands
+417404,81921,Drone Delivery Service,Delivery,04-06-2024,23-06-2024 00:00,Resolved,19,Neutral,Delhi
+422702,90278,Personal Safe,Product Quality,24-08-2024,Unresolved,Unresolved,0,Neutral,West Bengal
+269820,17291,Home Security System,Service,13-10-2023,27-10-2023 00:00,Resolved,14,Neutral,Puducherry
+430399,72372,Customer Support Service,Delivery,26-04-2024,13-05-2024 00:00,Resolved,17,Neutral,Tripura
+812303,89533,Home Security System,Service,27-03-2024,01-04-2024 00:00,Resolved,5,Neutral,Jammu and Kashmir
+595063,46100,Mobile Banking App,Product Quality,14-03-2024,Unresolved,Unresolved,0,Neutral,Telangana
+687454,85722,Drone Delivery Service,Product Quality,03-02-2024,01-03-2024 00:00,Resolved,27,Neutral,Ladakh
+988521,44802,Home Security System,Delivery,03-04-2024,16-04-2024 00:00,Resolved,13,Neutral,Haryana
+314627,83460,Digital Scale,Service,21-06-2024,10-07-2024 00:00,Resolved,19,Neutral,Arunachal Pradesh
+518389,52421,Customer Support Service,Delivery,18-01-2024,30-01-2024 00:00,Resolved,12,Neutral,Goa
+999585,90615,Home Security System,Delivery,02-04-2024,07-04-2024 00:00,Resolved,5,Neutral,Assam
+595825,77055,Digital Scale,Delivery,12-08-2024,14-08-2024 00:00,Resolved,2,Neutral,Gujarat
+906607,33470,Home Security System,Product Quality,01-02-2024,15-02-2024 00:00,Resolved,14,Neutral,Bihar
+978490,80007,Personal Safe,Billing,08-12-2023,21-12-2023 00:00,Resolved,13,Neutral,Assam
+394007,97686,Personal Safe,Product Quality,20-10-2023,03-11-2023 00:00,Resolved,14,Neutral,Chhattisgarh
+415244,96628,Home Security System,Delivery,13-04-2024,18-04-2024 00:00,Resolved,5,Neutral,Odisha
+278863,10490,Drone Delivery Service,Technical Support,14-01-2024,09-02-2024 00:00,Resolved,26,Positive,Goa
+303315,38588,Personal Safe,Billing,12-05-2024,11-06-2024 00:00,Resolved,30,Neutral,Bihar
+615182,35708,Fitness Tracker,Service,28-10-2023,Unresolved,Unresolved,0,Neutral,Gujarat
+477050,22102,Digital Scale,Billing,07-01-2024,09-01-2024 00:00,Resolved,2,Neutral,Andhra Pradesh
+104883,19904,Mobile Banking App,Delivery,17-09-2023,03-10-2023 00:00,Resolved,16,Neutral,Andaman and Nicobar Islands
+852526,60142,Cloud Storage,Billing,15-11-2023,Unresolved,Unresolved,0,Neutral,Arunachal Pradesh
+596677,62287,Mobile Banking App,Technical Support,20-07-2024,04-08-2024 00:00,Resolved,15,Positive,Chhattisgarh
+211300,11560,Home Security System,Delivery,18-05-2024,20-05-2024 00:00,Resolved,2,Neutral,Assam
+999639,14932,Mobile Banking App,Billing,26-08-2024,01-09-2024 00:00,Resolved,6,Neutral,Arunachal Pradesh
+932801,82755,Insurance Plan,Billing,05-11-2023,13-11-2023 00:00,Resolved,8,Neutral,Haryana
+208741,73653,Fitness Tracker,Billing,05-11-2023,Unresolved,Unresolved,0,Neutral,Bihar
+678430,95515,Weight Loss Program,Delivery,21-02-2024,24-02-2024 00:00,Resolved,3,Neutral,Jharkhand
+625734,88080,Insurance Plan,Delivery,08-09-2023,07-10-2023 00:00,Resolved,29,Neutral,Chhattisgarh
+491411,16284,Insurance Plan,Technical Support,14-09-2023,23-09-2023 00:00,Resolved,9,Positive,Kerala
+532762,16495,Weight Loss Program,Technical Support,05-06-2024,19-06-2024 00:00,Resolved,14,Positive,Goa
+244783,84067,Drone Delivery Service,Technical Support,17-03-2024,24-03-2024 00:00,Resolved,7,Positive,Odisha
+183437,83647,Mobile Banking App,Delivery,11-04-2024,29-04-2024 00:00,Resolved,18,Neutral,Andaman and Nicobar Islands
+311792,29640,Drone Delivery Service,Delivery,30-04-2024,20-05-2024 00:00,Resolved,20,Neutral,Punjab
+301723,68164,Weight Loss Program,Service,08-01-2024,17-01-2024 00:00,Resolved,9,Neutral,Mizoram
+305616,81195,Drone Delivery Service,Product Quality,08-11-2023,02-12-2023 00:00,Resolved,24,Neutral,Gujarat
+805981,31706,Fitness Tracker,Delivery,14-10-2023,13-11-2023 00:00,Resolved,30,Neutral,Nagaland
+241475,67228,Personal Safe,Technical Support,13-03-2024,07-04-2024 00:00,Resolved,25,Positive,Rajasthan
+400775,86619,Digital Scale,Service,20-03-2024,Unresolved,Unresolved,0,Neutral,Uttar Pradesh
+750813,59155,Cloud Storage,Product Quality,18-12-2023,16-01-2024 00:00,Resolved,29,Neutral,Assam
+339672,49730,Fitness Tracker,Product Quality,24-08-2024,Unresolved,Unresolved,0,Neutral,Kerala
+326057,78985,Insurance Plan,Billing,29-02-2024,25-03-2024 00:00,Resolved,25,Neutral,Odisha
+575729,55085,Personal Safe,Technical Support,25-06-2024,Unresolved,Unresolved,0,Positive,Jammu and Kashmir
+571275,63573,Customer Support Service,Product Quality,28-09-2023,10-10-2023 00:00,Resolved,12,Neutral,Chhattisgarh
+484814,75300,Personal Safe,Billing,06-08-2024,12-08-2024 00:00,Resolved,6,Neutral,Assam
+572493,44489,Home Security System,Technical Support,16-06-2024,11-07-2024 00:00,Resolved,25,Positive,Telangana
+587065,48246,Weight Loss Program,Technical Support,08-09-2023,08-10-2023 00:00,Resolved,30,Positive,Maharashtra
+178233,56030,Home Security System,Delivery,06-05-2024,02-06-2024 00:00,Resolved,27,Neutral,West Bengal
+936676,50506,Home Security System,Technical Support,05-05-2024,24-05-2024 00:00,Resolved,19,Positive,Bihar
+611102,77486,Weight Loss Program,Technical Support,09-08-2024,22-08-2024 00:00,Resolved,13,Positive,Dadra and Nagar Haveli and Daman and Diu
+372880,35014,Mobile Banking App,Service,17-04-2024,Unresolved,Unresolved,0,Neutral,Chhattisgarh
+563329,39296,Insurance Plan,Service,15-02-2024,19-02-2024 00:00,Resolved,4,Neutral,Mizoram
+955057,52916,Home Security System,Billing,07-06-2024,25-06-2024 00:00,Resolved,18,Neutral,Rajasthan
+602742,72073,Drone Delivery Service,Delivery,28-10-2023,Unresolved,Unresolved,0,Neutral,Nagaland
+634531,10082,Personal Safe,Service,03-07-2024,Unresolved,Unresolved,0,Neutral,Uttarakhand
+105588,96648,Digital Scale,Product Quality,29-05-2024,01-06-2024 00:00,Resolved,3,Neutral,Odisha
+588403,37328,Fitness Tracker,Delivery,23-04-2024,02-05-2024 00:00,Resolved,9,Neutral,Uttar Pradesh
+311309,56430,Customer Support Service,Delivery,12-03-2024,16-03-2024 00:00,Resolved,4,Neutral,Punjab
+365246,49987,Fitness Tracker,Delivery,16-12-2023,25-12-2023 00:00,Resolved,9,Neutral,Chandigarh
+560435,35956,Digital Scale,Delivery,25-08-2024,Unresolved,Unresolved,0,Neutral,Rajasthan
+740155,36603,Insurance Plan,Technical Support,24-09-2023,01-10-2023 00:00,Resolved,7,Positive,West Bengal
+103503,96960,Cloud Storage,Service,09-02-2024,10-02-2024 00:00,Resolved,1,Neutral,Sikkim
+205372,91151,Drone Delivery Service,Service,14-12-2023,25-12-2023 00:00,Resolved,11,Neutral,Lakshadweep
+566785,66986,Cloud Storage,Billing,06-08-2024,24-08-2024 00:00,Resolved,18,Neutral,Tamil Nadu
+334410,49373,Customer Support Service,Product Quality,19-11-2023,19-12-2023 00:00,Resolved,30,Neutral,Dadra and Nagar Haveli and Daman and Diu
+790926,70308,Cloud Storage,Product Quality,04-08-2024,Unresolved,Unresolved,0,Neutral,Telangana
+755821,57135,Drone Delivery Service,Service,05-02-2024,Unresolved,Unresolved,0,Neutral,Chandigarh
+575411,57845,Personal Safe,Service,06-07-2024,11-07-2024 00:00,Resolved,5,Neutral,Tripura
+425382,83618,Mobile Banking App,Technical Support,28-12-2023,Unresolved,Unresolved,0,Positive,Jammu and Kashmir
+579815,36712,Digital Scale,Product Quality,16-03-2024,12-04-2024 00:00,Resolved,27,Neutral,Uttar Pradesh
+753087,20480,Mobile Banking App,Service,22-12-2023,21-01-2024 00:00,Resolved,30,Neutral,Sikkim
+347309,37301,Personal Safe,Billing,17-10-2023,11-11-2023 00:00,Resolved,25,Neutral,Uttarakhand
+543309,42215,Insurance Plan,Service,17-02-2024,15-03-2024 00:00,Resolved,27,Neutral,Tripura
+313111,53311,Cloud Storage,Service,07-03-2024,13-03-2024 00:00,Resolved,6,Neutral,West Bengal
+522602,87359,Home Security System,Billing,15-12-2023,07-01-2024 00:00,Resolved,23,Neutral,Punjab
+518763,83520,Insurance Plan,Product Quality,11-03-2024,16-03-2024 00:00,Resolved,5,Neutral,Andaman and Nicobar Islands
+439232,99461,Insurance Plan,Service,16-03-2024,Unresolved,Unresolved,0,Neutral,Rajasthan
+319789,13481,Home Security System,Delivery,25-08-2024,29-08-2024 00:00,Resolved,4,Neutral,Chandigarh
+122838,71840,Digital Scale,Product Quality,16-01-2024,15-02-2024 00:00,Resolved,30,Neutral,Odisha
+742496,36294,Digital Scale,Product Quality,30-09-2023,14-10-2023 00:00,Resolved,14,Neutral,Dadra and Nagar Haveli and Daman and Diu
+222453,97083,Weight Loss Program,Product Quality,07-09-2023,28-09-2023 00:00,Resolved,21,Neutral,Uttarakhand
+161348,65287,Home Security System,Service,11-02-2024,29-02-2024 00:00,Resolved,18,Neutral,Lakshadweep
+822011,86178,Digital Scale,Product Quality,03-03-2024,26-03-2024 00:00,Resolved,23,Neutral,Uttar Pradesh
+636376,93337,Mobile Banking App,Product Quality,14-05-2024,13-06-2024 00:00,Resolved,30,Neutral,Delhi
+147306,71219,Cloud Storage,Technical Support,19-06-2024,11-07-2024 00:00,Resolved,22,Positive,Tripura
+350727,96004,Cloud Storage,Technical Support,06-05-2024,01-06-2024 00:00,Resolved,26,Positive,Puducherry
+155471,30663,Insurance Plan,Delivery,19-09-2023,01-10-2023 00:00,Resolved,12,Neutral,Telangana
+631393,45447,Cloud Storage,Service,23-09-2023,12-10-2023 00:00,Resolved,19,Neutral,Jammu and Kashmir
+301577,91444,Drone Delivery Service,Service,06-08-2024,19-08-2024 00:00,Resolved,13,Neutral,Gujarat
+311623,13415,Digital Scale,Delivery,17-12-2023,27-12-2023 00:00,Resolved,10,Neutral,Ladakh
+228991,29444,Home Security System,Billing,18-01-2024,19-01-2024 00:00,Resolved,1,Neutral,Maharashtra
+817497,14832,Mobile Banking App,Technical Support,01-09-2023,28-09-2023 00:00,Resolved,27,Positive,Nagaland
+689391,46179,Customer Support Service,Delivery,16-01-2024,19-01-2024 00:00,Resolved,3,Neutral,Rajasthan
+325904,80514,Digital Scale,Billing,17-07-2024,19-07-2024 00:00,Resolved,2,Neutral,Goa
+904107,41049,Digital Scale,Billing,01-01-2024,04-01-2024 00:00,Resolved,3,Neutral,Uttar Pradesh
+319685,26043,Customer Support Service,Delivery,02-04-2024,02-05-2024 00:00,Resolved,30,Neutral,Jammu and Kashmir
+703967,89245,Drone Delivery Service,Service,18-11-2023,24-11-2023 00:00,Resolved,6,Neutral,Bihar
+511274,31482,Fitness Tracker,Delivery,15-12-2023,27-12-2023 00:00,Resolved,12,Neutral,Kerala
+730880,44546,Mobile Banking App,Technical Support,12-08-2024,03-09-2024 00:00,Resolved,22,Positive,Punjab
+580076,93359,Home Security System,Billing,16-12-2023,Unresolved,Unresolved,0,Neutral,Maharashtra
+817312,52432,Mobile Banking App,Technical Support,25-03-2024,05-04-2024 00:00,Resolved,11,Positive,Lakshadweep
+838215,22247,Mobile Banking App,Product Quality,02-05-2024,25-05-2024 00:00,Resolved,23,Neutral,Tamil Nadu
+818663,86370,Home Security System,Service,27-03-2024,24-04-2024 00:00,Resolved,28,Neutral,Nagaland
+282902,17385,Personal Safe,Technical Support,29-08-2023,25-09-2023 00:00,Resolved,27,Positive,Uttar Pradesh
+219710,43032,Insurance Plan,Product Quality,25-03-2024,28-03-2024 00:00,Resolved,3,Neutral,Delhi
+940511,61884,Home Security System,Product Quality,01-12-2023,Unresolved,Unresolved,0,Neutral,Uttarakhand
+712724,16930,Mobile Banking App,Billing,12-05-2024,01-06-2024 00:00,Resolved,20,Neutral,Sikkim
+544570,31682,Customer Support Service,Service,13-11-2023,04-12-2023 00:00,Resolved,21,Neutral,Rajasthan
+934380,14115,Weight Loss Program,Service,02-04-2024,10-04-2024 00:00,Resolved,8,Neutral,Kerala
+569755,85795,Cloud Storage,Product Quality,27-03-2024,12-04-2024 00:00,Resolved,16,Neutral,Assam
+962695,84552,Weight Loss Program,Technical Support,28-04-2024,Unresolved,Unresolved,0,Positive,Tamil Nadu
+419029,53598,Customer Support Service,Service,31-08-2023,05-09-2023 00:00,Resolved,5,Neutral,Bihar
+820615,91761,Fitness Tracker,Delivery,30-09-2023,01-10-2023 00:00,Resolved,1,Neutral,Punjab
+564112,74656,Weight Loss Program,Billing,04-11-2023,19-11-2023 00:00,Resolved,15,Neutral,Gujarat
+992486,70755,Customer Support Service,Billing,27-09-2023,27-10-2023 00:00,Resolved,30,Neutral,Jammu and Kashmir
+457466,14366,Mobile Banking App,Technical Support,19-07-2024,01-08-2024 00:00,Resolved,13,Positive,Haryana
+142691,42209,Weight Loss Program,Technical Support,12-05-2024,Unresolved,Unresolved,0,Positive,Ladakh
+902175,15204,Mobile Banking App,Service,18-08-2024,25-08-2024 00:00,Resolved,7,Neutral,Jharkhand
+967468,49420,Drone Delivery Service,Technical Support,05-12-2023,29-12-2023 00:00,Resolved,24,Positive,Jammu and Kashmir
+595876,58405,Digital Scale,Product Quality,12-09-2023,Unresolved,Unresolved,0,Neutral,Madhya Pradesh
+271007,18784,Insurance Plan,Delivery,13-07-2024,Unresolved,Unresolved,0,Neutral,Andhra Pradesh
+725472,89827,Weight Loss Program,Service,26-08-2024,27-08-2024 00:00,Resolved,1,Neutral,Punjab
+962670,51612,Mobile Banking App,Billing,16-09-2023,27-09-2023 00:00,Resolved,11,Neutral,Gujarat
+275614,12549,Home Security System,Billing,27-02-2024,23-03-2024 00:00,Resolved,25,Neutral,West Bengal
+325498,18185,Fitness Tracker,Product Quality,04-11-2023,22-11-2023 00:00,Resolved,18,Neutral,Haryana
+713468,70546,Insurance Plan,Delivery,05-07-2024,21-07-2024 00:00,Resolved,16,Neutral,Arunachal Pradesh
+148527,86260,Fitness Tracker,Service,13-01-2024,Unresolved,Unresolved,0,Neutral,Uttar Pradesh
+290977,60012,Drone Delivery Service,Billing,07-10-2023,05-11-2023 00:00,Resolved,29,Neutral,Himachal Pradesh
+277322,78904,Cloud Storage,Service,14-05-2024,Unresolved,Unresolved,0,Neutral,Sikkim
+260520,74835,Insurance Plan,Product Quality,07-06-2024,12-06-2024 00:00,Resolved,5,Neutral,Mizoram
+684058,77385,Insurance Plan,Service,20-04-2024,26-04-2024 00:00,Resolved,6,Neutral,Andhra Pradesh
+491629,26652,Weight Loss Program,Billing,10-03-2024,18-03-2024 00:00,Resolved,8,Neutral,Nagaland
+305141,46631,Mobile Banking App,Billing,18-09-2023,27-09-2023 00:00,Resolved,9,Neutral,Haryana
+513529,66497,Personal Safe,Technical Support,15-05-2024,22-05-2024 00:00,Resolved,7,Positive,Bihar
+565807,59220,Personal Safe,Product Quality,12-04-2024,12-05-2024 00:00,Resolved,30,Neutral,Dadra and Nagar Haveli and Daman and Diu
+458229,92850,Digital Scale,Product Quality,18-04-2024,09-05-2024 00:00,Resolved,21,Neutral,Chhattisgarh
+385200,85881,Insurance Plan,Billing,13-08-2024,Unresolved,Unresolved,0,Neutral,Punjab
+841515,91592,Insurance Plan,Service,20-08-2024,11-09-2024 00:00,Resolved,22,Neutral,Goa
+781645,33200,Mobile Banking App,Service,28-10-2023,02-11-2023 00:00,Resolved,5,Neutral,Chhattisgarh
+821464,18330,Cloud Storage,Product Quality,24-03-2024,Unresolved,Unresolved,0,Neutral,Gujarat
+269535,10178,Fitness Tracker,Service,28-12-2023,31-12-2023 00:00,Resolved,3,Neutral,Ladakh
+443941,11888,Weight Loss Program,Billing,07-03-2024,16-03-2024 00:00,Resolved,9,Neutral,Haryana
+226074,65656,Cloud Storage,Delivery,12-03-2024,19-03-2024 00:00,Resolved,7,Neutral,Andhra Pradesh
+471702,24920,Customer Support Service,Service,22-10-2023,28-10-2023 00:00,Resolved,6,Neutral,Chhattisgarh
+905099,81307,Personal Safe,Delivery,30-12-2023,Unresolved,Unresolved,0,Neutral,Rajasthan
+444109,15680,Home Security System,Product Quality,13-07-2024,07-08-2024 00:00,Resolved,25,Neutral,Arunachal Pradesh
+757789,52622,Digital Scale,Technical Support,28-05-2024,21-06-2024 00:00,Resolved,24,Positive,Meghalaya
+220619,30702,Weight Loss Program,Service,07-06-2024,11-06-2024 00:00,Resolved,4,Neutral,Assam
+267146,29865,Personal Safe,Product Quality,20-05-2024,02-06-2024 00:00,Resolved,13,Neutral,Goa
+160346,47105,Customer Support Service,Product Quality,23-04-2024,13-05-2024 00:00,Resolved,20,Neutral,Bihar
+790564,29216,Fitness Tracker,Product Quality,26-01-2024,Unresolved,Unresolved,0,Neutral,Sikkim
+489898,83016,Customer Support Service,Product Quality,04-08-2024,22-08-2024 00:00,Resolved,18,Neutral,Chhattisgarh
+681949,62682,Insurance Plan,Service,19-10-2023,10-11-2023 00:00,Resolved,22,Neutral,Andhra Pradesh
+324440,61658,Fitness Tracker,Service,24-04-2024,17-05-2024 00:00,Resolved,23,Neutral,Odisha
+410611,92668,Personal Safe,Billing,17-11-2023,02-12-2023 00:00,Resolved,15,Neutral,Arunachal Pradesh
+990508,30665,Customer Support Service,Technical Support,09-03-2024,30-03-2024 00:00,Resolved,21,Positive,Telangana
+325844,95983,Fitness Tracker,Product Quality,11-01-2024,Unresolved,Unresolved,0,Neutral,Assam
+631712,95282,Customer Support Service,Product Quality,04-01-2024,10-01-2024 00:00,Resolved,6,Neutral,Haryana
+999689,66595,Mobile Banking App,Billing,20-07-2024,02-08-2024 00:00,Resolved,13,Neutral,Bihar
+651883,12420,Digital Scale,Delivery,22-01-2024,12-02-2024 00:00,Resolved,21,Neutral,Jharkhand
+975761,61307,Home Security System,Billing,11-06-2024,14-06-2024 00:00,Resolved,3,Neutral,Chhattisgarh
+627261,67624,Fitness Tracker,Technical Support,30-12-2023,29-01-2024 00:00,Resolved,30,Positive,Kerala
+965081,38343,Fitness Tracker,Delivery,04-10-2023,22-10-2023 00:00,Resolved,18,Neutral,Goa
+437435,33280,Insurance Plan,Billing,29-03-2024,Unresolved,Unresolved,0,Neutral,Odisha
+288540,96561,Fitness Tracker,Billing,15-02-2024,28-02-2024 00:00,Resolved,13,Neutral,Andaman and Nicobar Islands
+288802,52696,Fitness Tracker,Service,31-10-2023,Unresolved,Unresolved,0,Neutral,Punjab
+444882,21782,Customer Support Service,Service,06-01-2024,24-01-2024 00:00,Resolved,18,Neutral,Mizoram
+220920,96458,Home Security System,Product Quality,16-09-2023,Unresolved,Unresolved,0,Neutral,Gujarat
+990643,36753,Personal Safe,Service,10-06-2024,28-06-2024 00:00,Resolved,18,Neutral,Nagaland
+529855,33090,Home Security System,Product Quality,08-12-2023,Unresolved,Unresolved,0,Neutral,Rajasthan
+103490,82861,Fitness Tracker,Billing,22-04-2024,26-04-2024 00:00,Resolved,4,Neutral,Uttar Pradesh
+859015,59318,Home Security System,Product Quality,12-07-2024,16-07-2024 00:00,Resolved,4,Neutral,Assam
+315186,88567,Cloud Storage,Service,15-02-2024,17-02-2024 00:00,Resolved,2,Neutral,Kerala
+262822,21741,Weight Loss Program,Service,28-06-2024,16-07-2024 00:00,Resolved,18,Neutral,Odisha
+929454,23214,Mobile Banking App,Technical Support,24-02-2024,26-02-2024 00:00,Resolved,2,Positive,Jammu and Kashmir
+545827,25134,Drone Delivery Service,Product Quality,06-01-2024,26-01-2024 00:00,Resolved,20,Neutral,Chhattisgarh
+848191,14531,Insurance Plan,Technical Support,12-10-2023,Unresolved,Unresolved,0,Positive,Assam
+167262,84588,Drone Delivery Service,Service,13-06-2024,Unresolved,Unresolved,0,Neutral,Telangana
+193220,42544,Customer Support Service,Service,08-09-2023,04-10-2023 00:00,Resolved,26,Neutral,Maharashtra
+811013,44928,Drone Delivery Service,Service,09-03-2024,16-03-2024 00:00,Resolved,7,Neutral,West Bengal
+164441,59374,Personal Safe,Delivery,09-10-2023,24-10-2023 00:00,Resolved,15,Neutral,Bihar
+239612,35783,Fitness Tracker,Delivery,02-01-2024,29-01-2024 00:00,Resolved,27,Neutral,Dadra and Nagar Haveli and Daman and Diu
+110662,80074,Drone Delivery Service,Service,17-07-2024,04-08-2024 00:00,Resolved,18,Neutral,Chhattisgarh
+229659,13168,Home Security System,Technical Support,28-02-2024,12-03-2024 00:00,Resolved,13,Positive,Punjab
+567083,25020,Cloud Storage,Service,02-04-2024,10-04-2024 00:00,Resolved,8,Neutral,Goa
+944258,35358,Mobile Banking App,Technical Support,14-11-2023,27-11-2023 00:00,Resolved,13,Positive,Chhattisgarh
+634248,59214,Insurance Plan,Technical Support,07-08-2024,03-09-2024 00:00,Resolved,27,Positive,Gujarat
+404895,53433,Digital Scale,Technical Support,18-01-2024,28-01-2024 00:00,Resolved,10,Positive,Ladakh
+292947,78340,Customer Support Service,Billing,08-02-2024,Unresolved,Unresolved,0,Neutral,Haryana
+359986,41152,Drone Delivery Service,Delivery,18-07-2024,Unresolved,Unresolved,0,Neutral,Andhra Pradesh
+177708,94631,Home Security System,Product Quality,24-11-2023,17-12-2023 00:00,Resolved,23,Neutral,Chhattisgarh
+319197,95335,Fitness Tracker,Technical Support,18-12-2023,Unresolved,Unresolved,0,Positive,Rajasthan
+258488,94681,Cloud Storage,Billing,21-11-2023,02-12-2023 00:00,Resolved,11,Neutral,Arunachal Pradesh
+423899,82340,Home Security System,Service,06-11-2023,19-11-2023 00:00,Resolved,13,Neutral,Meghalaya
+404131,61462,Digital Scale,Product Quality,07-08-2024,31-08-2024 00:00,Resolved,24,Neutral,Assam
+454397,68387,Personal Safe,Service,08-07-2024,18-07-2024 00:00,Resolved,10,Neutral,Goa
+563050,65491,Digital Scale,Delivery,18-12-2023,11-01-2024 00:00,Resolved,24,Neutral,Bihar
+332638,98056,Weight Loss Program,Billing,07-03-2024,17-03-2024 00:00,Resolved,10,Neutral,Sikkim
+761773,51168,Mobile Banking App,Product Quality,25-07-2024,10-08-2024 00:00,Resolved,16,Neutral,Chhattisgarh
+745638,49499,Fitness Tracker,Service,06-07-2024,11-07-2024 00:00,Resolved,5,Neutral,Andhra Pradesh
+862699,93524,Weight Loss Program,Delivery,22-03-2024,19-04-2024 00:00,Resolved,28,Neutral,Odisha
+836143,51827,Fitness Tracker,Product Quality,24-05-2024,25-05-2024 00:00,Resolved,1,Neutral,Arunachal Pradesh
+137336,25116,Fitness Tracker,Service,19-10-2023,Unresolved,Unresolved,0,Neutral,Telangana
+166161,34224,Personal Safe,Billing,04-10-2023,Unresolved,Unresolved,0,Neutral,Assam
+456848,52222,Mobile Banking App,Technical Support,21-09-2023,13-10-2023 00:00,Resolved,22,Positive,Haryana
+262882,66963,Home Security System,Service,15-05-2024,09-06-2024 00:00,Resolved,25,Neutral,Bihar
+724811,23041,Fitness Tracker,Delivery,31-05-2024,28-06-2024 00:00,Resolved,28,Neutral,Jharkhand
+242915,96571,Home Security System,Technical Support,26-03-2024,01-04-2024 00:00,Resolved,6,Positive,Chhattisgarh
+579434,36484,Home Security System,Product Quality,13-09-2023,16-09-2023 00:00,Resolved,3,Neutral,Kerala
+776381,87956,Digital Scale,Service,29-04-2024,04-05-2024 00:00,Resolved,5,Neutral,Goa
+861920,61749,Home Security System,Delivery,18-05-2024,28-05-2024 00:00,Resolved,10,Neutral,Odisha
+412208,86468,Digital Scale,Technical Support,14-11-2023,18-11-2023 00:00,Resolved,4,Positive,Andaman and Nicobar Islands
+846539,12865,Cloud Storage,Billing,23-07-2024,25-07-2024 00:00,Resolved,2,Neutral,Punjab
