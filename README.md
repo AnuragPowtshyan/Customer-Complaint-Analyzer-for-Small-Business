@@ -25,7 +25,7 @@ This project analyzes customer complaint data to uncover key patterns, sentiment
 
 | Column Name              | Description                              |
 |--------------------------|------------------------------------------|
-| Complaint ID       -->     Unique identifier for each complaint     |
+| Complaint ID             |Unique identifier for each complaint      |
 | Customer ID              | Unique customer reference                |
 | Product                  | Product involved in the complaint        |
 | Complaint Category       | Type of issue reported                   |
